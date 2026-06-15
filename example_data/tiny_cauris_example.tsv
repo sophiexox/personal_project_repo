@@ -1,0 +1,5 @@
+protein_id	current_name	interpro_go	protnote_go	cath_label	foldseek_hit
+QG37_00076	hypothetical protein		GO:0005524;GO:0016887	3.40.50.300	ATPase-like domain
+QG37_00576	hypothetical protein	GO:0003677	GO:0003677;GO:0006355	1.10.10.10	DNA-binding domain
+QG37_00636	hypothetical protein		GO:0016787	3.40.50.1820	hydrolase-like domain
+QG37_00707	hypothetical protein	GO:0003824	GO:0003824;GO:0008152	3.20.20.70	transferase-like domain
