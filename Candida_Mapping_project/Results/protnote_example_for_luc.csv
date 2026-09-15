@@ -1,0 +1,101 @@
+sequence_id,rank,go_id,probability,description,Is_Generic,Is_Obsolete,Is_Specific,Gene ID,source_id,Product Description,Protein Length,Ortholog count,Paralog count
+B9J08_000005,1,GO:0005575,0.9255,cellular_component,True,False,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,2,GO:0044464,0.6033,cell part,True,False,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,3,GO:0005576,0.5719,extracellular region,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,4,GO:0016020,0.5603,membrane,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,5,GO:0031225,0.5397,anchored component of membrane,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,6,GO:0008150,0.4901,biological_process,True,False,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,7,GO:0005886,0.4827,plasma membrane,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,8,GO:0008370,0.4581,obsolete cellular component,False,True,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,9,GO:0003674,0.4113,molecular_function,True,False,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,10,GO:0031224,0.3885,intrinsic component of membrane,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,11,GO:0030312,0.3846,external encapsulating structure,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,12,GO:0008284,0.3682,positive regulation of cell population proliferation,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,13,GO:0000267,0.3612,obsolete cell fraction,False,True,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,14,GO:0005618,0.3548,cell wall,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,15,GO:0044425,0.3343,membrane part,True,False,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,16,GO:0065007,0.3188,biological regulation,True,False,False,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,17,GO:0007155,0.3041,cell adhesion,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,18,GO:0065008,0.2849,regulation of biological quality,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,19,GO:0042127,0.2741,regulation of cell population proliferation,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000005,20,GO:0022610,0.2703,biological adhesion,False,False,True,B9J08_000005,B9J08_000005-t37_1,hypothetical protein,202,8,0
+B9J08_000006,1,GO:0005575,0.8956,cellular_component,True,False,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,2,GO:0044424,0.8275,intracellular part,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,3,GO:0044464,0.8272,cell part,True,False,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,4,GO:0008150,0.7912,biological_process,True,False,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,5,GO:0005737,0.6522,cytoplasm,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,6,GO:0009987,0.6023,cellular process,True,False,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,7,GO:0000267,0.4815,obsolete cell fraction,False,True,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,8,GO:0008152,0.4695,metabolic process,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,9,GO:1901572,0.4643,obsolete chemical substance metabolic process,False,True,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,10,GO:0008370,0.4617,obsolete cellular component,False,True,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,11,GO:0044441,0.4617,ciliary part,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,12,GO:0043170,0.4479,macromolecule metabolic process,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,13,GO:0006807,0.4469,nitrogen compound metabolic process,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,14,GO:0044463,0.4396,cell projection part,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,15,GO:0120038,0.4372,plasma membrane bounded cell projection part,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,16,GO:0006952,0.4307,defense response,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,17,GO:0001539,0.4299,cilium or flagellum-dependent cell motility,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,18,GO:0044260,0.4277,cellular macromolecule metabolic process,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,19,GO:0044237,0.4196,cellular metabolic process,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000006,20,GO:0043226,0.4117,organelle,True,False,False,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000014,1,GO:0008150,0.814,biological_process,True,False,False,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,2,GO:0005575,0.5855,cellular_component,True,False,False,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,3,GO:0008152,0.5803,metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,4,GO:0044238,0.5719,primary metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,5,GO:0043170,0.5711,macromolecule metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,6,GO:1901572,0.5354,obsolete chemical substance metabolic process,False,True,False,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,7,GO:0006807,0.5236,nitrogen compound metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,8,GO:0016070,0.4863,RNA metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,9,GO:0003674,0.4817,molecular_function,True,False,False,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,10,GO:0046483,0.4797,heterocycle metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,11,GO:0009987,0.4792,cellular process,True,False,False,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,12,GO:0016071,0.4788,mRNA metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,13,GO:0006397,0.4754,mRNA processing,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,14,GO:0034641,0.4723,cellular nitrogen compound metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,15,GO:0006396,0.4492,RNA processing,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,16,GO:0044237,0.439,cellular metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,17,GO:0006139,0.429,nucleobase-containing compound metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,18,GO:0008371,0.4085,obsolete biological process,False,True,False,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,19,GO:0071704,0.4064,organic substance metabolic process,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000014,20,GO:0044424,0.4059,intracellular part,False,False,True,B9J08_000014,B9J08_000014-t37_1,hypothetical protein,590,21,0
+B9J08_000019,1,GO:0005575,0.7322,cellular_component,True,False,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,2,GO:0044464,0.629,cell part,True,False,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,3,GO:0044422,0.6083,organelle part,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,4,GO:0044446,0.5821,intracellular organelle part,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,5,GO:0044424,0.582,intracellular part,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,6,GO:0044444,0.5443,cytoplasmic part,True,False,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,7,GO:0008150,0.5114,biological_process,True,False,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,8,GO:0097159,0.5094,organic cyclic compound binding,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,9,GO:1901363,0.4977,heterocyclic compound binding,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,10,GO:0031090,0.4775,organelle membrane,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,11,GO:0003674,0.4328,molecular_function,True,False,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,12,GO:0005488,0.412,binding,True,False,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,13,GO:0071702,0.4056,organic substance transport,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,14,GO:0016020,0.402,membrane,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,15,GO:0044425,0.3775,membrane part,True,False,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,16,GO:0003676,0.3738,nucleic acid binding,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,17,GO:0008370,0.3661,obsolete cellular component,False,True,False,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,18,GO:0044432,0.3519,endoplasmic reticulum part,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,19,GO:0036094,0.3439,small molecule binding,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000019,20,GO:0071705,0.3434,nitrogen compound transport,False,False,True,B9J08_000019,B9J08_000019-t37_1,hypothetical protein,358,22,0
+B9J08_000021,1,GO:0044464,0.8984,cell part,True,False,False,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,2,GO:0005575,0.8966,cellular_component,True,False,False,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,3,GO:0044424,0.871,intracellular part,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,4,GO:0008150,0.7654,biological_process,True,False,False,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,5,GO:0044446,0.6875,intracellular organelle part,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,6,GO:0044422,0.6841,organelle part,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,7,GO:0071704,0.6542,organic substance metabolic process,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,8,GO:0006807,0.6233,nitrogen compound metabolic process,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,9,GO:0043170,0.6152,macromolecule metabolic process,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,10,GO:0044428,0.6017,nuclear part,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,11,GO:1901572,0.5702,obsolete chemical substance metabolic process,False,True,False,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,12,GO:0008152,0.5642,metabolic process,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,13,GO:0043226,0.5558,organelle,True,False,False,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,14,GO:0044238,0.5418,primary metabolic process,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,15,GO:0043229,0.5281,intracellular organelle,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,16,GO:1901564,0.5167,organonitrogen compound metabolic process,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,17,GO:0065003,0.4692,protein-containing complex assembly,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,18,GO:0009987,0.4604,cellular process,True,False,False,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,19,GO:0043933,0.4496,protein-containing complex subunit organization,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000021,20,GO:0008370,0.4442,obsolete cellular component,False,True,False,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0

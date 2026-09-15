@@ -1,0 +1,4 @@
+Output_Type,N_proteins,N_missing,N_unique_exact_descriptions,Percent_unique_exact_descriptions,N_rows_sharing_description,Median_word_count,Mean_word_count,Maximum_word_count,Extreme_length_threshold_words,N_extreme_length_outliers,N_any_review_flag,Percent_any_review_flag,Exact_description_entropy_bits
+function,521,0,476,91.36276391554703,75,12.0,17.429942418426105,1011,52.0,10,84,16.122840690978887,8.822675179446716
+pathway,521,0,94,18.042226487523994,476,4.0,3.6890595009596927,13,7.0,4,177,33.97312859884837,5.128171560164103
+subunit,521,0,173,33.20537428023032,379,3.0,4.882917466410748,90,17.0,30,89,17.08253358925144,4.955899276445354

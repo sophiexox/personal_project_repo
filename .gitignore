@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dissertation drafts / backups
+any_submissions/
+Backups/
+
+# Microsoft Office temporary files
+~$*ignore_mapping.xlsx
+ignore_mapping.xlsx
+ignore_mapping.xlsx

@@ -1,0 +1,16 @@
+Output_Type,Quality_Flag,N_flagged,Percent_of_521
+function,obsolete_placeholder,44,8.445297504798464
+function,photosynthesis_or_chloroplast,3,0.5758157389635317
+function,metazoan_or_clinical_context,7,1.3435700575815739
+function,bacterial_or_viral_context,23,4.414587332053743
+function,extreme_length_outlier,10,1.9193857965451053
+pathway,obsolete_placeholder,157,30.134357005758154
+pathway,photosynthesis_or_chloroplast,16,3.071017274472169
+pathway,metazoan_or_clinical_context,0,0.0
+pathway,bacterial_or_viral_context,0,0.0
+pathway,extreme_length_outlier,4,0.7677543186180422
+subunit,obsolete_placeholder,57,10.9404990403071
+subunit,photosynthesis_or_chloroplast,4,0.7677543186180422
+subunit,metazoan_or_clinical_context,4,0.7677543186180422
+subunit,bacterial_or_viral_context,1,0.19193857965451055
+subunit,extreme_length_outlier,30,5.758157389635317

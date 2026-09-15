@@ -1,0 +1,6 @@
+Outcome,Predictor,Method,N_used,N_total,Missing_predictor,Missing_outcome,Spearman_rho,P_value
+ProtNLM_Top1_Score,Ortholog count,Spearman rank correlation,521,521,0,0,0.04968441141731865,0.25761630785283635
+ProtNLM_Top1_Score,Paralog count,Spearman rank correlation,521,521,0,0,0.052477727456991106,0.23178499172294806
+ProtNLM_Top1_Score,Protein Length,Spearman rank correlation,521,521,0,0,0.12229753479284138,0.005185349803192752
+ProtNLM_Top1_Score,Beam_Exact_Lexical_Coherence,Spearman rank correlation,521,521,0,0,0.13146679015468266,0.002641547701491541
+ProtNLM_Top1_Score,Beam_Unique_Normalised_Labels,Spearman rank correlation,521,521,0,0,-0.13370696378600838,0.0022257367296192

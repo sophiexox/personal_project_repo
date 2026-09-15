@@ -1,0 +1,3 @@
+dataset,n_proteins,mean_score,median_score,minimum_score,maximum_score,score_ge_0.2,score_ge_0.5,score_ge_0.8,score_ge_0.9
+curated benchmark,94,0.49789814079787237,0.494421347,0.039235428,0.964804973,86,45,13,6
+annotation-poor,521,0.13333802758415972,0.0787196487871872,0.0037264065337922,0.9612094350853858,91,25,12,3

@@ -1,0 +1,700 @@
+sequence_id,rank,go_id,probability,description,Is_Generic,Is_Obsolete,Is_Specific,Gene ID,source_id,Product Description,Protein Length,Ortholog count,Paralog count
+B9J08_000006,2,GO:0044424,0.8275,intracellular part,False,False,True,B9J08_000006,B9J08_000006-t37_1,hypothetical protein,270,10,0
+B9J08_000021,3,GO:0044424,0.871,intracellular part,False,False,True,B9J08_000021,B9J08_000021-t37_1,hypothetical protein,483,23,0
+B9J08_000052,3,GO:0016021,0.8745,integral component of membrane,False,False,True,B9J08_000052,B9J08_000052-t37_1,hypothetical protein,196,22,0
+B9J08_000052,4,GO:0031224,0.8494,intrinsic component of membrane,False,False,True,B9J08_000052,B9J08_000052-t37_1,hypothetical protein,196,22,0
+B9J08_000052,6,GO:0044424,0.8241,intracellular part,False,False,True,B9J08_000052,B9J08_000052-t37_1,hypothetical protein,196,22,0
+B9J08_000070,2,GO:0044424,0.8483,intracellular part,False,False,True,B9J08_000070,B9J08_000070-t37_1,hypothetical protein,665,22,0
+B9J08_000086,2,GO:0006807,0.8219,nitrogen compound metabolic process,False,False,True,B9J08_000086,B9J08_000086-t37_1,hypothetical protein,341,20,0
+B9J08_000110,2,GO:0044424,0.8562,intracellular part,False,False,True,B9J08_000110,B9J08_000110-t37_1,hypothetical protein,273,19,0
+B9J08_000119,6,GO:0044424,0.813,intracellular part,False,False,True,B9J08_000119,B9J08_000119-t37_1,hypothetical protein,100,14,0
+B9J08_000197,3,GO:0044424,0.8792,intracellular part,False,False,True,B9J08_000197,B9J08_000197-t37_1,hypothetical protein,767,20,0
+B9J08_000197,5,GO:0044446,0.8113,intracellular organelle part,False,False,True,B9J08_000197,B9J08_000197-t37_1,hypothetical protein,767,20,0
+B9J08_000259,1,GO:0044424,0.9054,intracellular part,False,False,True,B9J08_000259,B9J08_000259-t37_1,hypothetical protein,188,347,1
+B9J08_000259,5,GO:0031224,0.822,intrinsic component of membrane,False,False,True,B9J08_000259,B9J08_000259-t37_1,hypothetical protein,188,347,1
+B9J08_000266,3,GO:0008152,0.8561,metabolic process,False,False,True,B9J08_000266,B9J08_000266-t37_1,hypothetical protein,324,9,0
+B9J08_000266,5,GO:0071704,0.8053,organic substance metabolic process,False,False,True,B9J08_000266,B9J08_000266-t37_1,hypothetical protein,324,9,0
+B9J08_000295,3,GO:0044424,0.9737,intracellular part,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000295,5,GO:0044429,0.9515,mitochondrial part,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000295,6,GO:0044422,0.9455,organelle part,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000295,8,GO:0044446,0.9316,intracellular organelle part,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000295,10,GO:0044455,0.8968,mitochondrial membrane part,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000295,11,GO:0032991,0.8875,protein-containing complex,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000295,12,GO:0008152,0.8807,metabolic process,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000295,13,GO:0098796,0.8595,membrane protein complex,False,False,True,B9J08_000295,B9J08_000295-t37_1,hypothetical protein,115,21,0
+B9J08_000336,2,GO:0032502,0.9302,developmental process,False,False,True,B9J08_000336,B9J08_000336-t37_1,hypothetical protein,1649,25,0
+B9J08_000336,5,GO:0048856,0.8402,anatomical structure development,False,False,True,B9J08_000336,B9J08_000336-t37_1,hypothetical protein,1649,25,0
+B9J08_000361,3,GO:0044424,0.8595,intracellular part,False,False,True,B9J08_000361,B9J08_000361-t37_1,hypothetical protein,152,7,0
+B9J08_000361,4,GO:0043229,0.8557,intracellular organelle,False,False,True,B9J08_000361,B9J08_000361-t37_1,hypothetical protein,152,7,0
+B9J08_000429,1,GO:0044424,0.9018,intracellular part,False,False,True,B9J08_000429,B9J08_000429-t37_1,hypothetical protein,371,28,0
+B9J08_000429,4,GO:0044446,0.8521,intracellular organelle part,False,False,True,B9J08_000429,B9J08_000429-t37_1,hypothetical protein,371,28,0
+B9J08_000429,5,GO:0044422,0.8504,organelle part,False,False,True,B9J08_000429,B9J08_000429-t37_1,hypothetical protein,371,28,0
+B9J08_000429,8,GO:0044429,0.8383,mitochondrial part,False,False,True,B9J08_000429,B9J08_000429-t37_1,hypothetical protein,371,28,0
+B9J08_000439,4,GO:0016021,0.9264,integral component of membrane,False,False,True,B9J08_000439,B9J08_000439-t37_1,hypothetical protein,96,22,0
+B9J08_000439,6,GO:0044429,0.9098,mitochondrial part,False,False,True,B9J08_000439,B9J08_000439-t37_1,hypothetical protein,96,22,0
+B9J08_000439,7,GO:0044424,0.9082,intracellular part,False,False,True,B9J08_000439,B9J08_000439-t37_1,hypothetical protein,96,22,0
+B9J08_000439,8,GO:0031224,0.9072,intrinsic component of membrane,False,False,True,B9J08_000439,B9J08_000439-t37_1,hypothetical protein,96,22,0
+B9J08_000439,9,GO:0044446,0.9044,intracellular organelle part,False,False,True,B9J08_000439,B9J08_000439-t37_1,hypothetical protein,96,22,0
+B9J08_000439,10,GO:0044422,0.8947,organelle part,False,False,True,B9J08_000439,B9J08_000439-t37_1,hypothetical protein,96,22,0
+B9J08_000456,2,GO:0044424,0.8148,intracellular part,False,False,True,B9J08_000456,B9J08_000456-t37_1,hypothetical protein,207,18,0
+B9J08_000481,3,GO:0044424,0.9522,intracellular part,False,False,True,B9J08_000481,B9J08_000481-t37_1,hypothetical protein,237,25,0
+B9J08_000481,5,GO:0044446,0.9322,intracellular organelle part,False,False,True,B9J08_000481,B9J08_000481-t37_1,hypothetical protein,237,25,0
+B9J08_000481,6,GO:0044422,0.9202,organelle part,False,False,True,B9J08_000481,B9J08_000481-t37_1,hypothetical protein,237,25,0
+B9J08_000481,7,GO:0044429,0.8782,mitochondrial part,False,False,True,B9J08_000481,B9J08_000481-t37_1,hypothetical protein,237,25,0
+B9J08_000481,8,GO:0016020,0.8743,membrane,False,False,True,B9J08_000481,B9J08_000481-t37_1,hypothetical protein,237,25,0
+B9J08_000481,10,GO:0031090,0.8302,organelle membrane,False,False,True,B9J08_000481,B9J08_000481-t37_1,hypothetical protein,237,25,0
+B9J08_000502,3,GO:0044424,0.952,intracellular part,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,4,GO:0044422,0.9461,organelle part,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,5,GO:0044446,0.9383,intracellular organelle part,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,6,GO:0016021,0.9365,integral component of membrane,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,7,GO:0044429,0.934,mitochondrial part,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,9,GO:0031224,0.9083,intrinsic component of membrane,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,12,GO:0006810,0.8334,transport,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,13,GO:0044455,0.832,mitochondrial membrane part,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000502,14,GO:0051179,0.8027,localization,False,False,True,B9J08_000502,B9J08_000502-t37_1,hypothetical protein,134,21,0
+B9J08_000521,3,GO:0044424,0.8426,intracellular part,False,False,True,B9J08_000521,B9J08_000521-t37_1,hypothetical protein,336,13,0
+B9J08_000586,3,GO:0044422,0.9078,organelle part,False,False,True,B9J08_000586,B9J08_000586-t37_1,hypothetical protein,150,22,0
+B9J08_000586,4,GO:0044424,0.906,intracellular part,False,False,True,B9J08_000586,B9J08_000586-t37_1,hypothetical protein,150,22,0
+B9J08_000586,5,GO:0044429,0.8971,mitochondrial part,False,False,True,B9J08_000586,B9J08_000586-t37_1,hypothetical protein,150,22,0
+B9J08_000586,6,GO:0044446,0.8929,intracellular organelle part,False,False,True,B9J08_000586,B9J08_000586-t37_1,hypothetical protein,150,22,0
+B9J08_000586,8,GO:0031224,0.8707,intrinsic component of membrane,False,False,True,B9J08_000586,B9J08_000586-t37_1,hypothetical protein,150,22,0
+B9J08_000586,9,GO:0016021,0.8466,integral component of membrane,False,False,True,B9J08_000586,B9J08_000586-t37_1,hypothetical protein,150,22,0
+B9J08_000595,4,GO:0044424,0.9255,intracellular part,False,False,True,B9J08_000595,B9J08_000595-t37_1,hypothetical protein,302,17,0
+B9J08_000595,7,GO:0043229,0.8513,intracellular organelle,False,False,True,B9J08_000595,B9J08_000595-t37_1,hypothetical protein,302,17,0
+B9J08_000595,9,GO:0005634,0.8289,nucleus,False,False,True,B9J08_000595,B9J08_000595-t37_1,hypothetical protein,302,17,0
+B9J08_000595,10,GO:0043231,0.8216,intracellular membrane-bounded organelle,False,False,True,B9J08_000595,B9J08_000595-t37_1,hypothetical protein,302,17,0
+B9J08_000597,3,GO:0044424,0.89,intracellular part,False,False,True,B9J08_000597,B9J08_000597-t37_1,hypothetical protein,473,7,0
+B9J08_000597,6,GO:0031224,0.8515,intrinsic component of membrane,False,False,True,B9J08_000597,B9J08_000597-t37_1,hypothetical protein,473,7,0
+B9J08_000597,7,GO:0016021,0.8432,integral component of membrane,False,False,True,B9J08_000597,B9J08_000597-t37_1,hypothetical protein,473,7,0
+B9J08_000597,9,GO:0043229,0.819,intracellular organelle,False,False,True,B9J08_000597,B9J08_000597-t37_1,hypothetical protein,473,7,0
+B9J08_000608,4,GO:0044432,0.885,endoplasmic reticulum part,False,False,True,B9J08_000608,B9J08_000608-t37_1,hypothetical protein,244,22,0
+B9J08_000608,5,GO:0044422,0.8826,organelle part,False,False,True,B9J08_000608,B9J08_000608-t37_1,hypothetical protein,244,22,0
+B9J08_000608,7,GO:0044424,0.867,intracellular part,False,False,True,B9J08_000608,B9J08_000608-t37_1,hypothetical protein,244,22,0
+B9J08_000608,9,GO:0044446,0.8573,intracellular organelle part,False,False,True,B9J08_000608,B9J08_000608-t37_1,hypothetical protein,244,22,0
+B9J08_000626,2,GO:0044424,0.9385,intracellular part,False,False,True,B9J08_000626,B9J08_000626-t37_1,hypothetical protein,459,28,0
+B9J08_000626,4,GO:0044446,0.9032,intracellular organelle part,False,False,True,B9J08_000626,B9J08_000626-t37_1,hypothetical protein,459,28,0
+B9J08_000626,6,GO:0044422,0.8936,organelle part,False,False,True,B9J08_000626,B9J08_000626-t37_1,hypothetical protein,459,28,0
+B9J08_000626,7,GO:0044429,0.8804,mitochondrial part,False,False,True,B9J08_000626,B9J08_000626-t37_1,hypothetical protein,459,28,0
+B9J08_000652,3,GO:0031224,0.8511,intrinsic component of membrane,False,False,True,B9J08_000652,B9J08_000652-t37_1,hypothetical protein,255,8,0
+B9J08_000652,4,GO:0016021,0.8142,integral component of membrane,False,False,True,B9J08_000652,B9J08_000652-t37_1,hypothetical protein,255,8,0
+B9J08_000653,4,GO:0044424,0.9289,intracellular part,False,False,True,B9J08_000653,B9J08_000653-t37_1,hypothetical protein,578,22,0
+B9J08_000653,7,GO:0050789,0.8415,regulation of biological process,False,False,True,B9J08_000653,B9J08_000653-t37_1,hypothetical protein,578,22,0
+B9J08_000653,8,GO:0044428,0.8345,nuclear part,False,False,True,B9J08_000653,B9J08_000653-t37_1,hypothetical protein,578,22,0
+B9J08_000653,9,GO:0044446,0.8232,intracellular organelle part,False,False,True,B9J08_000653,B9J08_000653-t37_1,hypothetical protein,578,22,0
+B9J08_000653,10,GO:0044422,0.8078,organelle part,False,False,True,B9J08_000653,B9J08_000653-t37_1,hypothetical protein,578,22,0
+B9J08_000653,11,GO:0031323,0.8011,regulation of cellular metabolic process,False,False,True,B9J08_000653,B9J08_000653-t37_1,hypothetical protein,578,22,0
+B9J08_000664,5,GO:0016021,0.8717,integral component of membrane,False,False,True,B9J08_000664,B9J08_000664-t37_1,hypothetical protein,391,12,0
+B9J08_000664,6,GO:0005886,0.8539,plasma membrane,False,False,True,B9J08_000664,B9J08_000664-t37_1,hypothetical protein,391,12,0
+B9J08_000664,7,GO:0031224,0.8488,intrinsic component of membrane,False,False,True,B9J08_000664,B9J08_000664-t37_1,hypothetical protein,391,12,0
+B9J08_000712,1,GO:0050789,0.8417,regulation of biological process,False,False,True,B9J08_000712,B9J08_000712-t37_1,hypothetical protein,519,9,0
+B9J08_000799,4,GO:0044424,0.9684,intracellular part,False,False,True,B9J08_000799,B9J08_000799-t37_1,hypothetical protein,603,34,0
+B9J08_000799,6,GO:0050789,0.9551,regulation of biological process,False,False,True,B9J08_000799,B9J08_000799-t37_1,hypothetical protein,603,34,0
+B9J08_000799,8,GO:0050794,0.9302,regulation of cellular process,False,False,True,B9J08_000799,B9J08_000799-t37_1,hypothetical protein,603,34,0
+B9J08_000799,10,GO:0043231,0.9208,intracellular membrane-bounded organelle,False,False,True,B9J08_000799,B9J08_000799-t37_1,hypothetical protein,603,34,0
+B9J08_000799,11,GO:0043229,0.9155,intracellular organelle,False,False,True,B9J08_000799,B9J08_000799-t37_1,hypothetical protein,603,34,0
+B9J08_000799,13,GO:0005634,0.9104,nucleus,False,False,True,B9J08_000799,B9J08_000799-t37_1,hypothetical protein,603,34,0
+B9J08_000799,14,GO:0005737,0.8486,cytoplasm,False,False,True,B9J08_000799,B9J08_000799-t37_1,hypothetical protein,603,34,0
+B9J08_000806,2,GO:0016021,0.9118,integral component of membrane,False,False,True,B9J08_000806,B9J08_000806-t37_1,hypothetical protein,303,24,0
+B9J08_000806,5,GO:0031224,0.8804,intrinsic component of membrane,False,False,True,B9J08_000806,B9J08_000806-t37_1,hypothetical protein,303,24,0
+B9J08_000807,3,GO:0044424,0.8997,intracellular part,False,False,True,B9J08_000807,B9J08_000807-t37_1,hypothetical protein,277,12,0
+B9J08_000807,5,GO:0050789,0.8219,regulation of biological process,False,False,True,B9J08_000807,B9J08_000807-t37_1,hypothetical protein,277,12,0
+B9J08_000817,2,GO:0044424,0.8209,intracellular part,False,False,True,B9J08_000817,B9J08_000817-t37_1,hypothetical protein,94,10,0
+B9J08_000824,3,GO:0071555,0.906,cell wall organization,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000824,4,GO:0071554,0.8961,cell wall organization or biogenesis,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000824,5,GO:0030312,0.881,external encapsulating structure,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000824,6,GO:0005618,0.8775,cell wall,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000824,8,GO:0045229,0.8584,external encapsulating structure organization,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000824,9,GO:0031505,0.8437,fungal-type cell wall organization,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000824,10,GO:0071852,0.8321,fungal-type cell wall organization or biogenesis,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000824,11,GO:0071840,0.8149,cellular component organization or biogenesis,False,False,True,B9J08_000824,B9J08_000824-t37_1,hypothetical protein,208,23,0
+B9J08_000846,2,GO:0044424,0.8945,intracellular part,False,False,True,B9J08_000846,B9J08_000846-t37_1,hypothetical protein,93,18,0
+B9J08_000846,5,GO:0032991,0.8577,protein-containing complex,False,False,True,B9J08_000846,B9J08_000846-t37_1,hypothetical protein,93,18,0
+B9J08_000890,4,GO:0051179,0.825,localization,False,False,True,B9J08_000890,B9J08_000890-t37_1,hypothetical protein,207,8,0
+B9J08_000890,5,GO:0051234,0.8138,establishment of localization,False,False,True,B9J08_000890,B9J08_000890-t37_1,hypothetical protein,207,8,0
+B9J08_000911,3,GO:0098772,0.8091,molecular function regulator,False,False,True,B9J08_000911,B9J08_000911-t37_1,hypothetical protein,186,6,0
+B9J08_000943,5,GO:0044424,0.8661,intracellular part,False,False,True,B9J08_000943,B9J08_000943-t37_1,hypothetical protein,458,8,0
+B9J08_001053,3,GO:0016021,0.9777,integral component of membrane,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001053,4,GO:0031224,0.9708,intrinsic component of membrane,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001053,6,GO:0044424,0.9333,intracellular part,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001053,8,GO:0019706,0.906,protein-cysteine S-palmitoyltransferase activity,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001053,9,GO:0019707,0.8665,protein-cysteine S-acyltransferase activity,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001053,10,GO:0016409,0.8455,palmitoyltransferase activity,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001053,11,GO:0044446,0.8434,intracellular organelle part,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001053,12,GO:0044422,0.8392,organelle part,False,False,True,B9J08_001053,B9J08_001053-t37_1,hypothetical protein,440,3,0
+B9J08_001074,2,GO:0031224,0.9071,intrinsic component of membrane,False,False,True,B9J08_001074,B9J08_001074-t37_1,hypothetical protein,104,2,0
+B9J08_001074,4,GO:0016021,0.8969,integral component of membrane,False,False,True,B9J08_001074,B9J08_001074-t37_1,hypothetical protein,104,2,0
+B9J08_001100,3,GO:0044424,0.8947,intracellular part,False,False,True,B9J08_001100,B9J08_001100-t37_1,hypothetical protein,198,23,0
+B9J08_001147,5,GO:0032991,0.9164,protein-containing complex,False,False,True,B9J08_001147,B9J08_001147-t37_1,hypothetical protein,109,22,0
+B9J08_001147,6,GO:0044455,0.916,mitochondrial membrane part,False,False,True,B9J08_001147,B9J08_001147-t37_1,hypothetical protein,109,22,0
+B9J08_001147,7,GO:0044424,0.9137,intracellular part,False,False,True,B9J08_001147,B9J08_001147-t37_1,hypothetical protein,109,22,0
+B9J08_001147,8,GO:0098800,0.888,inner mitochondrial membrane protein complex,False,False,True,B9J08_001147,B9J08_001147-t37_1,hypothetical protein,109,22,0
+B9J08_001147,9,GO:0098796,0.8823,membrane protein complex,False,False,True,B9J08_001147,B9J08_001147-t37_1,hypothetical protein,109,22,0
+B9J08_001147,10,GO:0098798,0.8761,mitochondrial protein complex,False,False,True,B9J08_001147,B9J08_001147-t37_1,hypothetical protein,109,22,0
+B9J08_001147,12,GO:0044429,0.8272,mitochondrial part,False,False,True,B9J08_001147,B9J08_001147-t37_1,hypothetical protein,109,22,0
+B9J08_001189,4,GO:0031224,0.873,intrinsic component of membrane,False,False,True,B9J08_001189,B9J08_001189-t37_1,hypothetical protein,508,8,0
+B9J08_001189,5,GO:0016021,0.8703,integral component of membrane,False,False,True,B9J08_001189,B9J08_001189-t37_1,hypothetical protein,508,8,0
+B9J08_001208,2,GO:0044424,0.8897,intracellular part,False,False,True,B9J08_001208,B9J08_001208-t37_1,hypothetical protein,701,27,0
+B9J08_001214,3,GO:0044424,0.8843,intracellular part,False,False,True,B9J08_001214,B9J08_001214-t37_1,hypothetical protein,588,22,0
+B9J08_001219,3,GO:0016021,0.9265,integral component of membrane,False,False,True,B9J08_001219,B9J08_001219-t37_1,hypothetical protein,344,12,0
+B9J08_001219,4,GO:0031224,0.9186,intrinsic component of membrane,False,False,True,B9J08_001219,B9J08_001219-t37_1,hypothetical protein,344,12,0
+B9J08_001223,1,GO:0071704,0.9814,organic substance metabolic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,2,GO:1901576,0.9747,organic substance biosynthetic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,4,GO:0043170,0.9599,macromolecule metabolic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,5,GO:0044237,0.9583,cellular metabolic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,6,GO:0009059,0.9542,macromolecule biosynthetic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,7,GO:0044249,0.9487,cellular biosynthetic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,9,GO:0006807,0.9473,nitrogen compound metabolic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,10,GO:0009058,0.946,biosynthetic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,11,GO:0044424,0.9444,intracellular part,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,12,GO:0008152,0.9422,metabolic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,13,GO:0044238,0.9409,primary metabolic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,14,GO:0044260,0.9405,cellular macromolecule metabolic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,18,GO:0034645,0.9251,cellular macromolecule biosynthetic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001223,19,GO:0044271,0.9233,cellular nitrogen compound biosynthetic process,False,False,True,B9J08_001223,B9J08_001223-t37_1,hypothetical protein,82,15,0
+B9J08_001287,2,GO:0044260,0.9521,cellular macromolecule metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,3,GO:0006725,0.9481,cellular aromatic compound metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,4,GO:0044237,0.9453,cellular metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,5,GO:0043170,0.94,macromolecule metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,6,GO:0071704,0.9368,organic substance metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,7,GO:0006139,0.9359,nucleobase-containing compound metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,8,GO:1901360,0.9272,organic cyclic compound metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,9,GO:0044238,0.9188,primary metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,10,GO:0008152,0.916,metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,11,GO:0006807,0.9116,nitrogen compound metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,12,GO:0034641,0.9098,cellular nitrogen compound metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,13,GO:0046483,0.9098,heterocycle metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,15,GO:0090304,0.8818,nucleic acid metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001287,19,GO:0006259,0.833,DNA metabolic process,False,False,True,B9J08_001287,B9J08_001287-t37_1,hypothetical protein,208,5,0
+B9J08_001290,5,GO:0044424,0.9034,intracellular part,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,6,GO:0008152,0.8931,metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,7,GO:0044237,0.8818,cellular metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,8,GO:0034641,0.8714,cellular nitrogen compound metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,9,GO:0043170,0.8644,macromolecule metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,10,GO:0006807,0.8609,nitrogen compound metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,11,GO:0006139,0.8586,nucleobase-containing compound metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,13,GO:0071704,0.8503,organic substance metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,14,GO:0006725,0.8323,cellular aromatic compound metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,15,GO:0046483,0.8275,heterocycle metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,16,GO:0050789,0.8253,regulation of biological process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,17,GO:0044238,0.823,primary metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,18,GO:1901360,0.8135,organic cyclic compound metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001290,19,GO:0090304,0.8062,nucleic acid metabolic process,False,False,True,B9J08_001290,B9J08_001290-t37_1,hypothetical protein,671,12,0
+B9J08_001308,2,GO:0044424,0.9304,intracellular part,False,False,True,B9J08_001308,B9J08_001308-t37_1,hypothetical protein,276,23,0
+B9J08_001341,1,GO:0043167,0.9079,ion binding,False,False,True,B9J08_001341,B9J08_001341-t37_1,hypothetical protein,230,7,0
+B9J08_001341,3,GO:0043169,0.8863,cation binding,False,False,True,B9J08_001341,B9J08_001341-t37_1,hypothetical protein,230,7,0
+B9J08_001341,4,GO:0046872,0.8829,metal ion binding,False,False,True,B9J08_001341,B9J08_001341-t37_1,hypothetical protein,230,7,0
+B9J08_001342,2,GO:0050789,0.8141,regulation of biological process,False,False,True,B9J08_001342,B9J08_001342-t37_1,hypothetical protein,296,9,0
+B9J08_001361,4,GO:0050789,0.8099,regulation of biological process,False,False,True,B9J08_001361,B9J08_001361-t37_1,hypothetical protein,306,10,1
+B9J08_001370,3,GO:0044424,0.8617,intracellular part,False,False,True,B9J08_001370,B9J08_001370-t37_1,hypothetical protein,436,5,0
+B9J08_001456,1,GO:0044424,0.9691,intracellular part,False,False,True,B9J08_001456,B9J08_001456-t37_1,hypothetical protein,795,24,0
+B9J08_001468,2,GO:0044424,0.853,intracellular part,False,False,True,B9J08_001468,B9J08_001468-t37_1,hypothetical protein,550,11,1
+B9J08_001470,3,GO:0044446,0.9477,intracellular organelle part,False,False,True,B9J08_001470,B9J08_001470-t37_1,hypothetical protein,524,23,0
+B9J08_001470,4,GO:0044422,0.9371,organelle part,False,False,True,B9J08_001470,B9J08_001470-t37_1,hypothetical protein,524,23,0
+B9J08_001470,5,GO:0044424,0.9298,intracellular part,False,False,True,B9J08_001470,B9J08_001470-t37_1,hypothetical protein,524,23,0
+B9J08_001470,6,GO:0044430,0.8542,cytoskeletal part,False,False,True,B9J08_001470,B9J08_001470-t37_1,hypothetical protein,524,23,0
+B9J08_001481,3,GO:0016021,0.9305,integral component of membrane,False,False,True,B9J08_001481,B9J08_001481-t37_1,hypothetical protein,278,1,0
+B9J08_001481,4,GO:0031224,0.9277,intrinsic component of membrane,False,False,True,B9J08_001481,B9J08_001481-t37_1,hypothetical protein,278,1,0
+B9J08_001481,7,GO:0050789,0.8188,regulation of biological process,False,False,True,B9J08_001481,B9J08_001481-t37_1,hypothetical protein,278,1,0
+B9J08_001486,3,GO:0044424,0.8472,intracellular part,False,False,True,B9J08_001486,B9J08_001486-t37_1,hypothetical protein,427,471,0
+B9J08_001491,3,GO:0016021,0.8608,integral component of membrane,False,False,True,B9J08_001491,B9J08_001491-t37_1,hypothetical protein,301,8,0
+B9J08_001491,4,GO:0031224,0.8262,intrinsic component of membrane,False,False,True,B9J08_001491,B9J08_001491-t37_1,hypothetical protein,301,8,0
+B9J08_001500,3,GO:0016021,0.8191,integral component of membrane,False,False,True,B9J08_001500,B9J08_001500-t37_1,hypothetical protein,80,9,0
+B9J08_001500,4,GO:0031224,0.8151,intrinsic component of membrane,False,False,True,B9J08_001500,B9J08_001500-t37_1,hypothetical protein,80,9,0
+B9J08_001517,4,GO:0044424,0.8593,intracellular part,False,False,True,B9J08_001517,B9J08_001517-t37_1,hypothetical protein,811,4,0
+B9J08_001520,5,GO:0005618,0.8685,cell wall,False,False,True,B9J08_001520,B9J08_001520-t37_1,hypothetical protein,293,5,0
+B9J08_001520,6,GO:0030312,0.8571,external encapsulating structure,False,False,True,B9J08_001520,B9J08_001520-t37_1,hypothetical protein,293,5,0
+B9J08_001520,8,GO:0031224,0.8136,intrinsic component of membrane,False,False,True,B9J08_001520,B9J08_001520-t37_1,hypothetical protein,293,5,0
+B9J08_001522,3,GO:0044424,0.8348,intracellular part,False,False,True,B9J08_001522,B9J08_001522-t37_1,hypothetical protein,434,24,0
+B9J08_001548,2,GO:0016021,0.9784,integral component of membrane,False,False,True,B9J08_001548,B9J08_001548-t37_1,hypothetical protein,136,1864,17
+B9J08_001548,3,GO:0031224,0.9693,intrinsic component of membrane,False,False,True,B9J08_001548,B9J08_001548-t37_1,hypothetical protein,136,1864,17
+B9J08_001548,6,GO:0044424,0.8826,intracellular part,False,False,True,B9J08_001548,B9J08_001548-t37_1,hypothetical protein,136,1864,17
+B9J08_001548,8,GO:0044422,0.8307,organelle part,False,False,True,B9J08_001548,B9J08_001548-t37_1,hypothetical protein,136,1864,17
+B9J08_001548,9,GO:0044446,0.8041,intracellular organelle part,False,False,True,B9J08_001548,B9J08_001548-t37_1,hypothetical protein,136,1864,17
+B9J08_001549,4,GO:0031224,0.8115,intrinsic component of membrane,False,False,True,B9J08_001549,B9J08_001549-t37_1,hypothetical protein,152,7,0
+B9J08_001551,3,GO:0005618,0.9472,cell wall,False,False,True,B9J08_001551,B9J08_001551-t37_1,hypothetical protein,149,43,5
+B9J08_001551,4,GO:0030312,0.9382,external encapsulating structure,False,False,True,B9J08_001551,B9J08_001551-t37_1,hypothetical protein,149,43,5
+B9J08_001551,5,GO:0009277,0.8506,fungal-type cell wall,False,False,True,B9J08_001551,B9J08_001551-t37_1,hypothetical protein,149,43,5
+B9J08_001556,3,GO:0044424,0.9358,intracellular part,False,False,True,B9J08_001556,B9J08_001556-t37_1,hypothetical protein,239,21,0
+B9J08_001556,4,GO:0044446,0.8241,intracellular organelle part,False,False,True,B9J08_001556,B9J08_001556-t37_1,hypothetical protein,239,21,0
+B9J08_001556,5,GO:0044422,0.8121,organelle part,False,False,True,B9J08_001556,B9J08_001556-t37_1,hypothetical protein,239,21,0
+B9J08_001617,2,GO:0044424,0.8462,intracellular part,False,False,True,B9J08_001617,B9J08_001617-t37_1,hypothetical protein,378,21,0
+B9J08_001638,5,GO:1901363,0.8279,heterocyclic compound binding,False,False,True,B9J08_001638,B9J08_001638-t37_1,hypothetical protein,213,21,0
+B9J08_001638,6,GO:0097159,0.8182,organic cyclic compound binding,False,False,True,B9J08_001638,B9J08_001638-t37_1,hypothetical protein,213,21,0
+B9J08_001666,4,GO:0044424,0.8547,intracellular part,False,False,True,B9J08_001666,B9J08_001666-t37_1,hypothetical protein,521,162,0
+B9J08_001683,3,GO:0044237,0.9136,cellular metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,4,GO:0008152,0.9034,metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,6,GO:0044424,0.8958,intracellular part,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,8,GO:0006807,0.8839,nitrogen compound metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,9,GO:0071704,0.8818,organic substance metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,11,GO:0044238,0.8579,primary metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,12,GO:0043170,0.8519,macromolecule metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,13,GO:1901360,0.8325,organic cyclic compound metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001683,15,GO:0034641,0.8046,cellular nitrogen compound metabolic process,False,False,True,B9J08_001683,B9J08_001683-t37_1,hypothetical protein,336,21,0
+B9J08_001700,5,GO:0044424,0.8636,intracellular part,False,False,True,B9J08_001700,B9J08_001700-t37_1,hypothetical protein,676,18,0
+B9J08_001746,3,GO:0044424,0.8529,intracellular part,False,False,True,B9J08_001746,B9J08_001746-t37_1,hypothetical protein,264,19,0
+B9J08_001867,5,GO:0071704,0.822,organic substance metabolic process,False,False,True,B9J08_001867,B9J08_001867-t37_1,hypothetical protein,138,18,0
+B9J08_001867,6,GO:0008152,0.8174,metabolic process,False,False,True,B9J08_001867,B9J08_001867-t37_1,hypothetical protein,138,18,0
+B9J08_001918,4,GO:0044424,0.8495,intracellular part,False,False,True,B9J08_001918,B9J08_001918-t37_1,hypothetical protein,581,7,0
+B9J08_001942,5,GO:0044424,0.9439,intracellular part,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,6,GO:0008152,0.9189,metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,7,GO:0006725,0.9177,cellular aromatic compound metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,8,GO:0006807,0.9167,nitrogen compound metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,9,GO:0044237,0.9165,cellular metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,10,GO:0044238,0.9083,primary metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,11,GO:0071704,0.9046,organic substance metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,12,GO:0006139,0.901,nucleobase-containing compound metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,13,GO:1901360,0.8923,organic cyclic compound metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,14,GO:0046483,0.8844,heterocycle metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,16,GO:0034641,0.873,cellular nitrogen compound metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,18,GO:0016043,0.8466,cellular component organization,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,19,GO:0043170,0.8393,macromolecule metabolic process,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001942,20,GO:0071840,0.8333,cellular component organization or biogenesis,False,False,True,B9J08_001942,B9J08_001942-t37_1,hypothetical protein,413,20,0
+B9J08_001970,3,GO:0044424,0.9258,intracellular part,False,False,True,B9J08_001970,B9J08_001970-t37_1,hypothetical protein,395,7,0
+B9J08_001970,5,GO:0043231,0.8903,intracellular membrane-bounded organelle,False,False,True,B9J08_001970,B9J08_001970-t37_1,hypothetical protein,395,7,0
+B9J08_001970,8,GO:0043229,0.8798,intracellular organelle,False,False,True,B9J08_001970,B9J08_001970-t37_1,hypothetical protein,395,7,0
+B9J08_001970,9,GO:0005634,0.8251,nucleus,False,False,True,B9J08_001970,B9J08_001970-t37_1,hypothetical protein,395,7,0
+B9J08_001978,2,GO:0016021,0.9476,integral component of membrane,False,False,True,B9J08_001978,B9J08_001978-t37_1,hypothetical protein,125,21,0
+B9J08_001978,4,GO:0031224,0.9439,intrinsic component of membrane,False,False,True,B9J08_001978,B9J08_001978-t37_1,hypothetical protein,125,21,0
+B9J08_002007,4,GO:0044424,0.9198,intracellular part,False,False,True,B9J08_002007,B9J08_002007-t37_1,hypothetical protein,748,18,0
+B9J08_002021,3,GO:0016021,0.9551,integral component of membrane,False,False,True,B9J08_002021,B9J08_002021-t37_1,hypothetical protein,289,21,0
+B9J08_002021,4,GO:0031224,0.9536,intrinsic component of membrane,False,False,True,B9J08_002021,B9J08_002021-t37_1,hypothetical protein,289,21,0
+B9J08_002021,6,GO:0044424,0.9116,intracellular part,False,False,True,B9J08_002021,B9J08_002021-t37_1,hypothetical protein,289,21,0
+B9J08_002028,1,GO:0031224,0.9689,intrinsic component of membrane,False,False,True,B9J08_002028,B9J08_002028-t37_1,hypothetical protein,104,14,0
+B9J08_002028,2,GO:0016021,0.9642,integral component of membrane,False,False,True,B9J08_002028,B9J08_002028-t37_1,hypothetical protein,104,14,0
+B9J08_002036,1,GO:0006810,0.8687,transport,False,False,True,B9J08_002036,B9J08_002036-t37_1,hypothetical protein,466,24,0
+B9J08_002036,2,GO:0051234,0.8604,establishment of localization,False,False,True,B9J08_002036,B9J08_002036-t37_1,hypothetical protein,466,24,0
+B9J08_002036,3,GO:0051179,0.838,localization,False,False,True,B9J08_002036,B9J08_002036-t37_1,hypothetical protein,466,24,0
+B9J08_002036,4,GO:0071702,0.8122,organic substance transport,False,False,True,B9J08_002036,B9J08_002036-t37_1,hypothetical protein,466,24,0
+B9J08_002082,3,GO:0044424,0.8277,intracellular part,False,False,True,B9J08_002082,B9J08_002082-t37_1,hypothetical protein,446,25,0
+B9J08_002084,3,GO:0044424,0.8543,intracellular part,False,False,True,B9J08_002084,B9J08_002084-t37_1,hypothetical protein,212,24,0
+B9J08_002119,3,GO:0044424,0.8349,intracellular part,False,False,True,B9J08_002119,B9J08_002119-t37_1,hypothetical protein,668,8,0
+B9J08_002141,1,GO:0016021,0.9814,integral component of membrane,False,False,True,B9J08_002141,B9J08_002141-t37_1,hypothetical protein,306,19,0
+B9J08_002141,2,GO:0031224,0.9729,intrinsic component of membrane,False,False,True,B9J08_002141,B9J08_002141-t37_1,hypothetical protein,306,19,0
+B9J08_002141,5,GO:0044424,0.892,intracellular part,False,False,True,B9J08_002141,B9J08_002141-t37_1,hypothetical protein,306,19,0
+B9J08_002141,6,GO:0031090,0.852,organelle membrane,False,False,True,B9J08_002141,B9J08_002141-t37_1,hypothetical protein,306,19,0
+B9J08_002141,7,GO:0044422,0.843,organelle part,False,False,True,B9J08_002141,B9J08_002141-t37_1,hypothetical protein,306,19,0
+B9J08_002141,9,GO:0044446,0.8143,intracellular organelle part,False,False,True,B9J08_002141,B9J08_002141-t37_1,hypothetical protein,306,19,0
+B9J08_002141,10,GO:0016020,0.8068,membrane,False,False,True,B9J08_002141,B9J08_002141-t37_1,hypothetical protein,306,19,0
+B9J08_002161,1,GO:0044424,0.8846,intracellular part,False,False,True,B9J08_002161,B9J08_002161-t37_1,hypothetical protein,300,19,0
+B9J08_002161,3,GO:0044446,0.837,intracellular organelle part,False,False,True,B9J08_002161,B9J08_002161-t37_1,hypothetical protein,300,19,0
+B9J08_002161,5,GO:0044422,0.8164,organelle part,False,False,True,B9J08_002161,B9J08_002161-t37_1,hypothetical protein,300,19,0
+B9J08_002163,4,GO:0044424,0.9499,intracellular part,False,False,True,B9J08_002163,B9J08_002163-t37_1,hypothetical protein,113,24,0
+B9J08_002163,5,GO:0044422,0.9268,organelle part,False,False,True,B9J08_002163,B9J08_002163-t37_1,hypothetical protein,113,24,0
+B9J08_002163,6,GO:0044446,0.9205,intracellular organelle part,False,False,True,B9J08_002163,B9J08_002163-t37_1,hypothetical protein,113,24,0
+B9J08_002163,7,GO:0044429,0.9189,mitochondrial part,False,False,True,B9J08_002163,B9J08_002163-t37_1,hypothetical protein,113,24,0
+B9J08_002163,9,GO:0098796,0.815,membrane protein complex,False,False,True,B9J08_002163,B9J08_002163-t37_1,hypothetical protein,113,24,0
+B9J08_002176,4,GO:0044424,0.8974,intracellular part,False,False,True,B9J08_002176,B9J08_002176-t37_1,hypothetical protein,392,22,0
+B9J08_002176,5,GO:0005634,0.8194,nucleus,False,False,True,B9J08_002176,B9J08_002176-t37_1,hypothetical protein,392,22,0
+B9J08_002204,3,GO:0044424,0.8406,intracellular part,False,False,True,B9J08_002204,B9J08_002204-t37_1,hypothetical protein,351,16,0
+B9J08_002228,2,GO:0016021,0.8705,integral component of membrane,False,False,True,B9J08_002228,B9J08_002228-t37_1,hypothetical protein,127,6,0
+B9J08_002228,3,GO:0031224,0.8592,intrinsic component of membrane,False,False,True,B9J08_002228,B9J08_002228-t37_1,hypothetical protein,127,6,0
+B9J08_002256,2,GO:0016021,0.8846,integral component of membrane,False,False,True,B9J08_002256,B9J08_002256-t37_1,hypothetical protein,279,6,0
+B9J08_002256,4,GO:0031224,0.8615,intrinsic component of membrane,False,False,True,B9J08_002256,B9J08_002256-t37_1,hypothetical protein,279,6,0
+B9J08_002295,3,GO:0016020,0.9299,membrane,False,False,True,B9J08_002295,B9J08_002295-t37_1,hypothetical protein,291,25,1
+B9J08_002296,4,GO:0016020,0.8379,membrane,False,False,True,B9J08_002296,B9J08_002296-t37_1,hypothetical protein,196,25,1
+B9J08_002296,5,GO:0031224,0.8187,intrinsic component of membrane,False,False,True,B9J08_002296,B9J08_002296-t37_1,hypothetical protein,196,25,1
+B9J08_002372,3,GO:0031224,0.9126,intrinsic component of membrane,False,False,True,B9J08_002372,B9J08_002372-t37_1,hypothetical protein,111,14,0
+B9J08_002372,4,GO:0016021,0.8959,integral component of membrane,False,False,True,B9J08_002372,B9J08_002372-t37_1,hypothetical protein,111,14,0
+B9J08_002486,1,GO:0031224,0.9192,intrinsic component of membrane,False,False,True,B9J08_002486,B9J08_002486-t37_1,hypothetical protein,143,8,0
+B9J08_002486,3,GO:0016021,0.9043,integral component of membrane,False,False,True,B9J08_002486,B9J08_002486-t37_1,hypothetical protein,143,8,0
+B9J08_002498,2,GO:0016021,0.8989,integral component of membrane,False,False,True,B9J08_002498,B9J08_002498-t37_1,hypothetical protein,174,6,0
+B9J08_002498,3,GO:0031224,0.88,intrinsic component of membrane,False,False,True,B9J08_002498,B9J08_002498-t37_1,hypothetical protein,174,6,0
+B9J08_002511,4,GO:0016021,0.9345,integral component of membrane,False,False,True,B9J08_002511,B9J08_002511-t37_1,hypothetical protein,147,24,0
+B9J08_002511,5,GO:0031224,0.9322,intrinsic component of membrane,False,False,True,B9J08_002511,B9J08_002511-t37_1,hypothetical protein,147,24,0
+B9J08_002511,6,GO:0044422,0.8849,organelle part,False,False,True,B9J08_002511,B9J08_002511-t37_1,hypothetical protein,147,24,0
+B9J08_002511,8,GO:0044429,0.882,mitochondrial part,False,False,True,B9J08_002511,B9J08_002511-t37_1,hypothetical protein,147,24,0
+B9J08_002511,9,GO:0044446,0.8648,intracellular organelle part,False,False,True,B9J08_002511,B9J08_002511-t37_1,hypothetical protein,147,24,0
+B9J08_002511,10,GO:0044424,0.8529,intracellular part,False,False,True,B9J08_002511,B9J08_002511-t37_1,hypothetical protein,147,24,0
+B9J08_002522,3,GO:0044424,0.8791,intracellular part,False,False,True,B9J08_002522,B9J08_002522-t37_1,hypothetical protein,373,24,0
+B9J08_002522,5,GO:0043231,0.8507,intracellular membrane-bounded organelle,False,False,True,B9J08_002522,B9J08_002522-t37_1,hypothetical protein,373,24,0
+B9J08_002522,8,GO:0043229,0.8224,intracellular organelle,False,False,True,B9J08_002522,B9J08_002522-t37_1,hypothetical protein,373,24,0
+B9J08_002522,9,GO:0005634,0.8019,nucleus,False,False,True,B9J08_002522,B9J08_002522-t37_1,hypothetical protein,373,24,0
+B9J08_002541,1,GO:0031224,0.9848,intrinsic component of membrane,False,False,True,B9J08_002541,B9J08_002541-t37_1,hypothetical protein,481,23,0
+B9J08_002541,3,GO:0016021,0.9785,integral component of membrane,False,False,True,B9J08_002541,B9J08_002541-t37_1,hypothetical protein,481,23,0
+B9J08_002541,6,GO:0016020,0.8965,membrane,False,False,True,B9J08_002541,B9J08_002541-t37_1,hypothetical protein,481,23,0
+B9J08_002545,2,GO:1901363,0.9742,heterocyclic compound binding,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,3,GO:0043169,0.9721,cation binding,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,4,GO:0046872,0.9694,metal ion binding,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,5,GO:0097159,0.9681,organic cyclic compound binding,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,7,GO:0003676,0.9515,nucleic acid binding,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,9,GO:0043167,0.9373,ion binding,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,11,GO:0003677,0.9347,DNA binding,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,13,GO:0044424,0.91,intracellular part,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,14,GO:0005634,0.8123,nucleus,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002545,15,GO:0043231,0.8073,intracellular membrane-bounded organelle,False,False,True,B9J08_002545,B9J08_002545-t37_1,hypothetical protein,595,24,0
+B9J08_002579,1,GO:0031224,0.94,intrinsic component of membrane,False,False,True,B9J08_002579,B9J08_002579-t37_1,hypothetical protein,157,7,0
+B9J08_002579,3,GO:0016021,0.9261,integral component of membrane,False,False,True,B9J08_002579,B9J08_002579-t37_1,hypothetical protein,157,7,0
+B9J08_002592,3,GO:0031224,0.9751,intrinsic component of membrane,False,False,True,B9J08_002592,B9J08_002592-t37_1,hypothetical protein,121,21,0
+B9J08_002592,4,GO:0016021,0.9519,integral component of membrane,False,False,True,B9J08_002592,B9J08_002592-t37_1,hypothetical protein,121,21,0
+B9J08_002613,3,GO:0003676,0.9237,nucleic acid binding,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002613,5,GO:1901363,0.8918,heterocyclic compound binding,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002613,6,GO:0097159,0.8833,organic cyclic compound binding,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002613,7,GO:0003677,0.8745,DNA binding,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002613,9,GO:0006807,0.8537,nitrogen compound metabolic process,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002613,10,GO:0044424,0.8412,intracellular part,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002613,12,GO:0071704,0.829,organic substance metabolic process,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002613,13,GO:0046483,0.8032,heterocycle metabolic process,False,False,True,B9J08_002613,B9J08_002613-t37_1,hypothetical protein,427,21,0
+B9J08_002621,4,GO:0044424,0.8854,intracellular part,False,False,True,B9J08_002621,B9J08_002621-t37_1,hypothetical protein,247,21,0
+B9J08_002621,7,GO:0043231,0.8586,intracellular membrane-bounded organelle,False,False,True,B9J08_002621,B9J08_002621-t37_1,hypothetical protein,247,21,0
+B9J08_002621,8,GO:0005634,0.8568,nucleus,False,False,True,B9J08_002621,B9J08_002621-t37_1,hypothetical protein,247,21,0
+B9J08_002621,9,GO:0043229,0.8303,intracellular organelle,False,False,True,B9J08_002621,B9J08_002621-t37_1,hypothetical protein,247,21,0
+B9J08_002650,3,GO:0044424,0.8942,intracellular part,False,False,True,B9J08_002650,B9J08_002650-t37_1,hypothetical protein,735,21,0
+B9J08_002650,5,GO:0043229,0.8619,intracellular organelle,False,False,True,B9J08_002650,B9J08_002650-t37_1,hypothetical protein,735,21,0
+B9J08_002656,4,GO:0016021,0.8775,integral component of membrane,False,False,True,B9J08_002656,B9J08_002656-t37_1,hypothetical protein,297,21,0
+B9J08_002656,5,GO:0031224,0.8537,intrinsic component of membrane,False,False,True,B9J08_002656,B9J08_002656-t37_1,hypothetical protein,297,21,0
+B9J08_002731,3,GO:0050789,0.9377,regulation of biological process,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002731,4,GO:0050794,0.924,regulation of cellular process,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002731,6,GO:0044424,0.918,intracellular part,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002731,9,GO:0060255,0.8678,regulation of macromolecule metabolic process,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002731,11,GO:0048518,0.8186,positive regulation of biological process,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002731,12,GO:0019222,0.8185,regulation of metabolic process,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002731,13,GO:0044446,0.8038,intracellular organelle part,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002731,14,GO:0071704,0.8036,organic substance metabolic process,False,False,True,B9J08_002731,B9J08_002731-t37_1,hypothetical protein,350,23,0
+B9J08_002735,4,GO:0016020,0.8666,membrane,False,False,True,B9J08_002735,B9J08_002735-t37_1,hypothetical protein,797,7,0
+B9J08_002735,5,GO:0031224,0.8326,intrinsic component of membrane,False,False,True,B9J08_002735,B9J08_002735-t37_1,hypothetical protein,797,7,0
+B9J08_002735,6,GO:0030312,0.8123,external encapsulating structure,False,False,True,B9J08_002735,B9J08_002735-t37_1,hypothetical protein,797,7,0
+B9J08_002735,7,GO:0005618,0.802,cell wall,False,False,True,B9J08_002735,B9J08_002735-t37_1,hypothetical protein,797,7,0
+B9J08_002753,3,GO:0005618,0.9269,cell wall,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,4,GO:0030312,0.9185,external encapsulating structure,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,6,GO:0071554,0.9077,cell wall organization or biogenesis,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,7,GO:0045229,0.8959,external encapsulating structure organization,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,8,GO:0071555,0.889,cell wall organization,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,9,GO:0031225,0.8778,anchored component of membrane,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,10,GO:0071840,0.8686,cellular component organization or biogenesis,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,11,GO:0016043,0.8415,cellular component organization,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002753,12,GO:0031224,0.8366,intrinsic component of membrane,False,False,True,B9J08_002753,B9J08_002753-t37_1,hypothetical protein,91,47,2
+B9J08_002754,2,GO:0016021,0.8296,integral component of membrane,False,False,True,B9J08_002754,B9J08_002754-t37_1,hypothetical protein,697,47,2
+B9J08_002754,4,GO:0031224,0.802,intrinsic component of membrane,False,False,True,B9J08_002754,B9J08_002754-t37_1,hypothetical protein,697,47,2
+B9J08_002811,3,GO:0031224,0.8305,intrinsic component of membrane,False,False,True,B9J08_002811,B9J08_002811-t37_1,hypothetical protein,198,23,0
+B9J08_002811,4,GO:0016021,0.8231,integral component of membrane,False,False,True,B9J08_002811,B9J08_002811-t37_1,hypothetical protein,198,23,0
+B9J08_002843,3,GO:0031224,0.9429,intrinsic component of membrane,False,False,True,B9J08_002843,B9J08_002843-t37_1,hypothetical protein,416,22,0
+B9J08_002843,4,GO:0016021,0.9416,integral component of membrane,False,False,True,B9J08_002843,B9J08_002843-t37_1,hypothetical protein,416,22,0
+B9J08_002843,6,GO:0044424,0.8983,intracellular part,False,False,True,B9J08_002843,B9J08_002843-t37_1,hypothetical protein,416,22,0
+B9J08_002933,2,GO:0044424,0.8913,intracellular part,False,False,True,B9J08_002933,B9J08_002933-t37_1,hypothetical protein,538,20,0
+B9J08_002933,4,GO:0071704,0.8234,organic substance metabolic process,False,False,True,B9J08_002933,B9J08_002933-t37_1,hypothetical protein,538,20,0
+B9J08_002968,3,GO:0016021,0.9404,integral component of membrane,False,False,True,B9J08_002968,B9J08_002968-t37_1,hypothetical protein,228,9,0
+B9J08_002968,4,GO:0031224,0.9342,intrinsic component of membrane,False,False,True,B9J08_002968,B9J08_002968-t37_1,hypothetical protein,228,9,0
+B9J08_003025,1,GO:0050794,0.8981,regulation of cellular process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,4,GO:0050789,0.8778,regulation of biological process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,7,GO:0044424,0.8662,intracellular part,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,8,GO:0010556,0.8346,regulation of macromolecule biosynthetic process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,9,GO:2000112,0.8254,regulation of cellular macromolecule biosynthetic process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,10,GO:0019222,0.8235,regulation of metabolic process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,11,GO:0009889,0.8225,regulation of biosynthetic process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,12,GO:0031323,0.8175,regulation of cellular metabolic process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,13,GO:0031326,0.8163,regulation of cellular biosynthetic process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003025,14,GO:0060255,0.811,regulation of macromolecule metabolic process,False,False,True,B9J08_003025,B9J08_003025-t37_1,hypothetical protein,418,22,0
+B9J08_003137,3,GO:0044424,0.8399,intracellular part,False,False,True,B9J08_003137,B9J08_003137-t37_1,hypothetical protein,122,19,0
+B9J08_003149,4,GO:0044424,0.9791,intracellular part,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,5,GO:0071704,0.9203,organic substance metabolic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,6,GO:0008152,0.9187,metabolic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,8,GO:0044446,0.9142,intracellular organelle part,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,9,GO:0044237,0.9058,cellular metabolic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,10,GO:0044429,0.9039,mitochondrial part,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,11,GO:0043170,0.8911,macromolecule metabolic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,12,GO:0044422,0.8879,organelle part,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,13,GO:0009059,0.8804,macromolecule biosynthetic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,17,GO:1901576,0.85,organic substance biosynthetic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,18,GO:0044260,0.8437,cellular macromolecule metabolic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,19,GO:0032991,0.8303,protein-containing complex,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003149,20,GO:0044249,0.8214,cellular biosynthetic process,False,False,True,B9J08_003149,B9J08_003149-t37_1,hypothetical protein,289,21,0
+B9J08_003260,3,GO:0044424,0.8693,intracellular part,False,False,True,B9J08_003260,B9J08_003260-t37_1,hypothetical protein,93,17,0
+B9J08_003260,5,GO:0044429,0.8214,mitochondrial part,False,False,True,B9J08_003260,B9J08_003260-t37_1,hypothetical protein,93,17,0
+B9J08_003270,2,GO:0016021,0.9729,integral component of membrane,False,False,True,B9J08_003270,B9J08_003270-t37_1,hypothetical protein,293,8,0
+B9J08_003270,3,GO:0031224,0.9663,intrinsic component of membrane,False,False,True,B9J08_003270,B9J08_003270-t37_1,hypothetical protein,293,8,0
+B9J08_003286,3,GO:0044424,0.8703,intracellular part,False,False,True,B9J08_003286,B9J08_003286-t37_1,hypothetical protein,204,21,0
+B9J08_003297,5,GO:0044424,0.8074,intracellular part,False,False,True,B9J08_003297,B9J08_003297-t37_1,hypothetical protein,371,31,0
+B9J08_003325,3,GO:0016020,0.8896,membrane,False,False,True,B9J08_003325,B9J08_003325-t37_1,hypothetical protein,429,8,0
+B9J08_003325,5,GO:0005886,0.8513,plasma membrane,False,False,True,B9J08_003325,B9J08_003325-t37_1,hypothetical protein,429,8,0
+B9J08_003325,6,GO:0031224,0.8372,intrinsic component of membrane,False,False,True,B9J08_003325,B9J08_003325-t37_1,hypothetical protein,429,8,0
+B9J08_003337,2,GO:0016021,0.9193,integral component of membrane,False,False,True,B9J08_003337,B9J08_003337-t37_1,hypothetical protein,109,16,1
+B9J08_003337,3,GO:0031224,0.9028,intrinsic component of membrane,False,False,True,B9J08_003337,B9J08_003337-t37_1,hypothetical protein,109,16,1
+B9J08_003399,3,GO:0044424,0.9683,intracellular part,False,False,True,B9J08_003399,B9J08_003399-t37_1,hypothetical protein,540,23,0
+B9J08_003399,5,GO:0044422,0.9366,organelle part,False,False,True,B9J08_003399,B9J08_003399-t37_1,hypothetical protein,540,23,0
+B9J08_003399,6,GO:0044446,0.9335,intracellular organelle part,False,False,True,B9J08_003399,B9J08_003399-t37_1,hypothetical protein,540,23,0
+B9J08_003399,7,GO:0008152,0.8365,metabolic process,False,False,True,B9J08_003399,B9J08_003399-t37_1,hypothetical protein,540,23,0
+B9J08_003399,9,GO:0044237,0.8142,cellular metabolic process,False,False,True,B9J08_003399,B9J08_003399-t37_1,hypothetical protein,540,23,0
+B9J08_003399,10,GO:0071704,0.8075,organic substance metabolic process,False,False,True,B9J08_003399,B9J08_003399-t37_1,hypothetical protein,540,23,0
+B9J08_003419,3,GO:0044424,0.9084,intracellular part,False,False,True,B9J08_003419,B9J08_003419-t37_1,hypothetical protein,222,22,0
+B9J08_003419,5,GO:0044422,0.8702,organelle part,False,False,True,B9J08_003419,B9J08_003419-t37_1,hypothetical protein,222,22,0
+B9J08_003419,6,GO:0044446,0.8586,intracellular organelle part,False,False,True,B9J08_003419,B9J08_003419-t37_1,hypothetical protein,222,22,0
+B9J08_003419,7,GO:0044429,0.8517,mitochondrial part,False,False,True,B9J08_003419,B9J08_003419-t37_1,hypothetical protein,222,22,0
+B9J08_003434,3,GO:0044424,0.931,intracellular part,False,False,True,B9J08_003434,B9J08_003434-t37_1,hypothetical protein,720,129,0
+B9J08_003481,1,GO:0044424,0.9299,intracellular part,False,False,True,B9J08_003481,B9J08_003481-t37_1,hypothetical protein,220,8,0
+B9J08_003481,5,GO:0032991,0.8005,protein-containing complex,False,False,True,B9J08_003481,B9J08_003481-t37_1,hypothetical protein,220,8,0
+B9J08_003483,3,GO:0051179,0.9345,localization,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,4,GO:0051234,0.9254,establishment of localization,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,5,GO:0006810,0.9205,transport,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,6,GO:0033036,0.913,macromolecule localization,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,7,GO:0071702,0.8898,organic substance transport,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,8,GO:0008104,0.8849,protein localization,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,9,GO:0045184,0.8716,establishment of protein localization,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,10,GO:0015031,0.8691,protein transport,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,11,GO:0015833,0.8685,peptide transport,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,13,GO:0042886,0.8623,amide transport,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003483,14,GO:0071705,0.8565,nitrogen compound transport,False,False,True,B9J08_003483,B9J08_003483-t37_1,hypothetical protein,306,22,0
+B9J08_003539,3,GO:0044424,0.8159,intracellular part,False,False,True,B9J08_003539,B9J08_003539-t37_1,hypothetical protein,297,22,0
+B9J08_003551,4,GO:0031224,0.9283,intrinsic component of membrane,False,False,True,B9J08_003551,B9J08_003551-t37_1,hypothetical protein,775,68,1
+B9J08_003551,6,GO:0016020,0.9216,membrane,False,False,True,B9J08_003551,B9J08_003551-t37_1,hypothetical protein,775,68,1
+B9J08_003551,7,GO:0031225,0.902,anchored component of membrane,False,False,True,B9J08_003551,B9J08_003551-t37_1,hypothetical protein,775,68,1
+B9J08_003551,9,GO:0005886,0.833,plasma membrane,False,False,True,B9J08_003551,B9J08_003551-t37_1,hypothetical protein,775,68,1
+B9J08_003651,4,GO:0044424,0.8311,intracellular part,False,False,True,B9J08_003651,B9J08_003651-t37_1,hypothetical protein,250,26,0
+B9J08_003651,5,GO:0016021,0.829,integral component of membrane,False,False,True,B9J08_003651,B9J08_003651-t37_1,hypothetical protein,250,26,0
+B9J08_003651,6,GO:0031224,0.826,intrinsic component of membrane,False,False,True,B9J08_003651,B9J08_003651-t37_1,hypothetical protein,250,26,0
+B9J08_003672,2,GO:0031224,0.9317,intrinsic component of membrane,False,False,True,B9J08_003672,B9J08_003672-t37_1,hypothetical protein,119,4,0
+B9J08_003672,4,GO:0016021,0.9206,integral component of membrane,False,False,True,B9J08_003672,B9J08_003672-t37_1,hypothetical protein,119,4,0
+B9J08_003694,3,GO:0016021,0.9585,integral component of membrane,False,False,True,B9J08_003694,B9J08_003694-t37_1,hypothetical protein,604,22,0
+B9J08_003694,4,GO:0031224,0.9473,intrinsic component of membrane,False,False,True,B9J08_003694,B9J08_003694-t37_1,hypothetical protein,604,22,0
+B9J08_003698,4,GO:0044424,0.8161,intracellular part,False,False,True,B9J08_003698,B9J08_003698-t37_1,hypothetical protein,420,8,0
+B9J08_003704,2,GO:0009889,0.8801,regulation of biosynthetic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,3,GO:0019219,0.877,regulation of nucleobase-containing compound metabolic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,4,GO:0031326,0.8761,regulation of cellular biosynthetic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,5,GO:0060255,0.8631,regulation of macromolecule metabolic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,6,GO:0031323,0.8537,regulation of cellular metabolic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,7,GO:2001141,0.8495,regulation of RNA biosynthetic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,8,GO:0051252,0.8476,regulation of RNA metabolic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,9,GO:0019222,0.8428,regulation of metabolic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,11,GO:0010556,0.8395,regulation of macromolecule biosynthetic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,12,GO:2000112,0.8382,regulation of cellular macromolecule biosynthetic process,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,13,GO:0006355,0.8277,"regulation of transcription, DNA-templated",False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003704,14,GO:1903506,0.8268,regulation of nucleic acid-templated transcription,False,False,True,B9J08_003704,B9J08_003704-t37_1,hypothetical protein,316,5,0
+B9J08_003733,4,GO:0003676,0.891,nucleic acid binding,False,False,True,B9J08_003733,B9J08_003733-t37_1,hypothetical protein,418,20,0
+B9J08_003733,6,GO:0044424,0.8872,intracellular part,False,False,True,B9J08_003733,B9J08_003733-t37_1,hypothetical protein,418,20,0
+B9J08_003733,9,GO:0016043,0.8542,cellular component organization,False,False,True,B9J08_003733,B9J08_003733-t37_1,hypothetical protein,418,20,0
+B9J08_003733,10,GO:1901363,0.8461,heterocyclic compound binding,False,False,True,B9J08_003733,B9J08_003733-t37_1,hypothetical protein,418,20,0
+B9J08_003733,11,GO:0097159,0.8225,organic cyclic compound binding,False,False,True,B9J08_003733,B9J08_003733-t37_1,hypothetical protein,418,20,0
+B9J08_003733,13,GO:0071840,0.8055,cellular component organization or biogenesis,False,False,True,B9J08_003733,B9J08_003733-t37_1,hypothetical protein,418,20,0
+B9J08_003794,3,GO:0031224,0.8945,intrinsic component of membrane,False,False,True,B9J08_003794,B9J08_003794-t37_1,hypothetical protein,639,21,0
+B9J08_003794,7,GO:0016021,0.8631,integral component of membrane,False,False,True,B9J08_003794,B9J08_003794-t37_1,hypothetical protein,639,21,0
+B9J08_003818,3,GO:0044424,0.9166,intracellular part,False,False,True,B9J08_003818,B9J08_003818-t37_1,hypothetical protein,281,33,1
+B9J08_003818,4,GO:0043229,0.8436,intracellular organelle,False,False,True,B9J08_003818,B9J08_003818-t37_1,hypothetical protein,281,33,1
+B9J08_003818,6,GO:0005634,0.8293,nucleus,False,False,True,B9J08_003818,B9J08_003818-t37_1,hypothetical protein,281,33,1
+B9J08_003818,7,GO:0043231,0.8249,intracellular membrane-bounded organelle,False,False,True,B9J08_003818,B9J08_003818-t37_1,hypothetical protein,281,33,1
+B9J08_003845,2,GO:0050794,0.961,regulation of cellular process,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,3,GO:0044089,0.9528,positive regulation of cellular component biogenesis,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,4,GO:0050789,0.9513,regulation of biological process,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,5,GO:0051130,0.9371,positive regulation of cellular component organization,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,7,GO:0051128,0.9306,regulation of cellular component organization,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,9,GO:0044087,0.9004,regulation of cellular component biogenesis,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,11,GO:0033043,0.8908,regulation of organelle organization,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,12,GO:0010638,0.8814,positive regulation of organelle organization,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,13,GO:0005515,0.8616,protein binding,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,14,GO:0048522,0.8457,positive regulation of cellular process,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,15,GO:0048518,0.8435,positive regulation of biological process,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,18,GO:0031334,0.8184,positive regulation of protein complex assembly,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,19,GO:0044424,0.8175,intracellular part,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003845,20,GO:0043254,0.817,regulation of protein complex assembly,False,False,True,B9J08_003845,B9J08_003845-t37_1,hypothetical protein,1611,7,0
+B9J08_003853,1,GO:0043167,0.9304,ion binding,False,False,True,B9J08_003853,B9J08_003853-t37_1,hypothetical protein,575,25,0
+B9J08_003853,3,GO:0043169,0.922,cation binding,False,False,True,B9J08_003853,B9J08_003853-t37_1,hypothetical protein,575,25,0
+B9J08_003853,4,GO:0046872,0.9189,metal ion binding,False,False,True,B9J08_003853,B9J08_003853-t37_1,hypothetical protein,575,25,0
+B9J08_003891,2,GO:0044424,0.8063,intracellular part,False,False,True,B9J08_003891,B9J08_003891-t37_1,hypothetical protein,124,6,0
+B9J08_003984,3,GO:0044424,0.8425,intracellular part,False,False,True,B9J08_003984,B9J08_003984-t37_1,hypothetical protein,235,22,0
+B9J08_004002,3,GO:0044424,0.8517,intracellular part,False,False,True,B9J08_004002,B9J08_004002-t37_1,hypothetical protein,554,24,0
+B9J08_004031,2,GO:0071704,0.9843,organic substance metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,3,GO:0008152,0.9812,metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,4,GO:0044238,0.9781,primary metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,5,GO:0006807,0.9735,nitrogen compound metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,6,GO:0043170,0.9692,macromolecule metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,7,GO:0044237,0.9663,cellular metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,8,GO:1901564,0.96,organonitrogen compound metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,9,GO:0044260,0.9529,cellular macromolecule metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,11,GO:0019538,0.95,protein metabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,12,GO:0006508,0.9209,proteolysis,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,13,GO:1901575,0.9138,organic substance catabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,15,GO:0009056,0.8935,catabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,16,GO:0009057,0.891,macromolecule catabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,17,GO:0019941,0.8876,modification-dependent protein catabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,18,GO:0043632,0.8826,modification-dependent macromolecule catabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004031,19,GO:0051603,0.8803,proteolysis involved in cellular protein catabolic process,False,False,True,B9J08_004031,B9J08_004031-t37_1,hypothetical protein,1221,22,0
+B9J08_004033,2,GO:0044424,0.8154,intracellular part,False,False,True,B9J08_004033,B9J08_004033-t37_1,hypothetical protein,310,5,0
+B9J08_004034,3,GO:0044424,0.8915,intracellular part,False,False,True,B9J08_004034,B9J08_004034-t37_1,hypothetical protein,251,21,0
+B9J08_004084,4,GO:0031224,0.9236,intrinsic component of membrane,False,False,True,B9J08_004084,B9J08_004084-t37_1,hypothetical protein,229,6,0
+B9J08_004084,6,GO:0016020,0.9112,membrane,False,False,True,B9J08_004084,B9J08_004084-t37_1,hypothetical protein,229,6,0
+B9J08_004084,7,GO:0005886,0.8472,plasma membrane,False,False,True,B9J08_004084,B9J08_004084-t37_1,hypothetical protein,229,6,0
+B9J08_004101,3,GO:0016021,0.9249,integral component of membrane,False,False,True,B9J08_004101,B9J08_004101-t37_1,hypothetical protein,286,1760,2
+B9J08_004101,4,GO:0031224,0.9236,intrinsic component of membrane,False,False,True,B9J08_004101,B9J08_004101-t37_1,hypothetical protein,286,1760,2
+B9J08_004105,3,GO:0044424,0.8804,intracellular part,False,False,True,B9J08_004105,B9J08_004105-t37_1,hypothetical protein,203,4,0
+B9J08_004186,3,GO:0044424,0.9513,intracellular part,False,False,True,B9J08_004186,B9J08_004186-t37_1,hypothetical protein,597,23,0
+B9J08_004186,4,GO:0043229,0.8965,intracellular organelle,False,False,True,B9J08_004186,B9J08_004186-t37_1,hypothetical protein,597,23,0
+B9J08_004186,8,GO:0043231,0.8538,intracellular membrane-bounded organelle,False,False,True,B9J08_004186,B9J08_004186-t37_1,hypothetical protein,597,23,0
+B9J08_004187,1,GO:0016021,0.8931,integral component of membrane,False,False,True,B9J08_004187,B9J08_004187-t37_1,hypothetical protein,152,23,0
+B9J08_004187,3,GO:0031224,0.8708,intrinsic component of membrane,False,False,True,B9J08_004187,B9J08_004187-t37_1,hypothetical protein,152,23,0
+B9J08_004211,3,GO:0044424,0.9672,intracellular part,False,False,True,B9J08_004211,B9J08_004211-t37_1,hypothetical protein,287,22,0
+B9J08_004211,6,GO:0044422,0.9469,organelle part,False,False,True,B9J08_004211,B9J08_004211-t37_1,hypothetical protein,287,22,0
+B9J08_004211,7,GO:0044446,0.9433,intracellular organelle part,False,False,True,B9J08_004211,B9J08_004211-t37_1,hypothetical protein,287,22,0
+B9J08_004211,8,GO:0051179,0.8243,localization,False,False,True,B9J08_004211,B9J08_004211-t37_1,hypothetical protein,287,22,0
+B9J08_004260,3,GO:0044424,0.8638,intracellular part,False,False,True,B9J08_004260,B9J08_004260-t37_1,hypothetical protein,412,8,0
+B9J08_004260,5,GO:0043229,0.8263,intracellular organelle,False,False,True,B9J08_004260,B9J08_004260-t37_1,hypothetical protein,412,8,0
+B9J08_004270,2,GO:0044424,0.8975,intracellular part,False,False,True,B9J08_004270,B9J08_004270-t37_1,hypothetical protein,970,5,0
+B9J08_004270,5,GO:0043229,0.8179,intracellular organelle,False,False,True,B9J08_004270,B9J08_004270-t37_1,hypothetical protein,970,5,0
+B9J08_004272,2,GO:1901363,0.9862,heterocyclic compound binding,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,3,GO:0003676,0.986,nucleic acid binding,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,5,GO:0097159,0.9809,organic cyclic compound binding,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,8,GO:0044424,0.9565,intracellular part,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,9,GO:0003677,0.9296,DNA binding,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,10,GO:0019222,0.8841,regulation of metabolic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,11,GO:0009889,0.8727,regulation of biosynthetic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,13,GO:0010556,0.8669,regulation of macromolecule biosynthetic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,15,GO:0031323,0.8601,regulation of cellular metabolic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,16,GO:0009890,0.8566,negative regulation of biosynthetic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,17,GO:0060255,0.8498,regulation of macromolecule metabolic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,18,GO:0031326,0.8262,regulation of cellular biosynthetic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,19,GO:2001141,0.8203,regulation of RNA biosynthetic process,False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004272,20,GO:0006355,0.8194,"regulation of transcription, DNA-templated",False,False,True,B9J08_004272,B9J08_004272-t37_1,hypothetical protein,572,18,0
+B9J08_004275,4,GO:0044424,0.9181,intracellular part,False,False,True,B9J08_004275,B9J08_004275-t37_1,hypothetical protein,390,36,1
+B9J08_004276,3,GO:0031224,0.9449,intrinsic component of membrane,False,False,True,B9J08_004276,B9J08_004276-t37_1,hypothetical protein,299,7,0
+B9J08_004282,2,GO:0032502,0.8019,developmental process,False,False,True,B9J08_004282,B9J08_004282-t37_1,hypothetical protein,263,5,0
+B9J08_004283,3,GO:0050789,0.8222,regulation of biological process,False,False,True,B9J08_004283,B9J08_004283-t37_1,hypothetical protein,111,1,0
+B9J08_004284,3,GO:0044424,0.9613,intracellular part,False,False,True,B9J08_004284,B9J08_004284-t37_1,hypothetical protein,433,10,1
+B9J08_004284,4,GO:0043229,0.9018,intracellular organelle,False,False,True,B9J08_004284,B9J08_004284-t37_1,hypothetical protein,433,10,1
+B9J08_004290,1,GO:0016021,0.9656,integral component of membrane,False,False,True,B9J08_004290,B9J08_004290-t37_1,hypothetical protein,294,3,0
+B9J08_004290,2,GO:0031224,0.9617,intrinsic component of membrane,False,False,True,B9J08_004290,B9J08_004290-t37_1,hypothetical protein,294,3,0
+B9J08_004314,2,GO:0006807,0.8116,nitrogen compound metabolic process,False,False,True,B9J08_004314,B9J08_004314-t37_1,hypothetical protein,274,18,0
+B9J08_004366,2,GO:0016032,0.9488,viral process,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,3,GO:0044419,0.9418,interspecies interaction between organisms,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,4,GO:0044403,0.9392,symbiotic process,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,5,GO:0051704,0.9011,multi-organism process,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,7,GO:0051701,0.87,interaction with host,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,8,GO:0044003,0.8388,modification by symbiont of host morphology or physiology,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,9,GO:0050789,0.8359,regulation of biological process,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,10,GO:0051707,0.8242,response to other organism,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,11,GO:0052173,0.8149,response to defenses of other organism involved in symbiotic interaction,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,12,GO:0075136,0.8101,response to host,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004366,13,GO:0044068,0.8005,modulation by symbiont of host cellular process,False,False,True,B9J08_004366,B9J08_004366-t37_1,hypothetical protein,113,7,0
+B9J08_004376,3,GO:0016021,0.9154,integral component of membrane,False,False,True,B9J08_004376,B9J08_004376-t37_1,hypothetical protein,337,5,0
+B9J08_004376,4,GO:0031224,0.9131,intrinsic component of membrane,False,False,True,B9J08_004376,B9J08_004376-t37_1,hypothetical protein,337,5,0
+B9J08_004379,3,GO:0044424,0.853,intracellular part,False,False,True,B9J08_004379,B9J08_004379-t37_1,hypothetical protein,241,21,0
+B9J08_004387,3,GO:0050789,0.871,regulation of biological process,False,False,True,B9J08_004387,B9J08_004387-t37_1,hypothetical protein,534,7,0
+B9J08_004387,5,GO:0050794,0.8237,regulation of cellular process,False,False,True,B9J08_004387,B9J08_004387-t37_1,hypothetical protein,534,7,0
+B9J08_004395,3,GO:0044424,0.8121,intracellular part,False,False,True,B9J08_004395,B9J08_004395-t37_1,hypothetical protein,316,24,0
+B9J08_004415,3,GO:0044424,0.9027,intracellular part,False,False,True,B9J08_004415,B9J08_004415-t37_1,hypothetical protein,167,23,0
+B9J08_004416,4,GO:0016021,0.8004,integral component of membrane,False,False,True,B9J08_004416,B9J08_004416-t37_1,hypothetical protein,233,8,0
+B9J08_004418,3,GO:0031224,0.9011,intrinsic component of membrane,False,False,True,B9J08_004418,B9J08_004418-t37_1,hypothetical protein,150,5,0
+B9J08_004418,4,GO:0016021,0.8929,integral component of membrane,False,False,True,B9J08_004418,B9J08_004418-t37_1,hypothetical protein,150,5,0
+B9J08_004442,3,GO:0016021,0.9098,integral component of membrane,False,False,True,B9J08_004442,B9J08_004442-t37_1,hypothetical protein,282,23,0
+B9J08_004442,4,GO:0031224,0.906,intrinsic component of membrane,False,False,True,B9J08_004442,B9J08_004442-t37_1,hypothetical protein,282,23,0
+B9J08_004453,4,GO:0044424,0.8445,intracellular part,False,False,True,B9J08_004453,B9J08_004453-t37_1,hypothetical protein,476,8,0
+B9J08_004455,3,GO:0044424,0.83,intracellular part,False,False,True,B9J08_004455,B9J08_004455-t37_1,hypothetical protein,615,8,0
+B9J08_004465,3,GO:0044424,0.8443,intracellular part,False,False,True,B9J08_004465,B9J08_004465-t37_1,hypothetical protein,547,28,0
+B9J08_004484,3,GO:0031224,0.965,intrinsic component of membrane,False,False,True,B9J08_004484,B9J08_004484-t37_1,hypothetical protein,225,27,0
+B9J08_004484,4,GO:0016021,0.9556,integral component of membrane,False,False,True,B9J08_004484,B9J08_004484-t37_1,hypothetical protein,225,27,0
+B9J08_004484,5,GO:0044424,0.9555,intracellular part,False,False,True,B9J08_004484,B9J08_004484-t37_1,hypothetical protein,225,27,0
+B9J08_004484,8,GO:0044429,0.9185,mitochondrial part,False,False,True,B9J08_004484,B9J08_004484-t37_1,hypothetical protein,225,27,0
+B9J08_004484,9,GO:0044422,0.9141,organelle part,False,False,True,B9J08_004484,B9J08_004484-t37_1,hypothetical protein,225,27,0
+B9J08_004484,10,GO:0044446,0.9044,intracellular organelle part,False,False,True,B9J08_004484,B9J08_004484-t37_1,hypothetical protein,225,27,0
+B9J08_004528,3,GO:0044424,0.8205,intracellular part,False,False,True,B9J08_004528,B9J08_004528-t37_1,hypothetical protein,253,26,0
+B9J08_004575,2,GO:0016021,0.9613,integral component of membrane,False,False,True,B9J08_004575,B9J08_004575-t37_1,hypothetical protein,321,12,0
+B9J08_004575,3,GO:0031224,0.9539,intrinsic component of membrane,False,False,True,B9J08_004575,B9J08_004575-t37_1,hypothetical protein,321,12,0
+B9J08_004577,2,GO:0071554,0.9302,cell wall organization or biogenesis,False,False,True,B9J08_004577,B9J08_004577-t37_1,hypothetical protein,143,147,4
+B9J08_004577,5,GO:0071840,0.8924,cellular component organization or biogenesis,False,False,True,B9J08_004577,B9J08_004577-t37_1,hypothetical protein,143,147,4
+B9J08_004577,6,GO:0071555,0.8861,cell wall organization,False,False,True,B9J08_004577,B9J08_004577-t37_1,hypothetical protein,143,147,4
+B9J08_004577,7,GO:0016043,0.8771,cellular component organization,False,False,True,B9J08_004577,B9J08_004577-t37_1,hypothetical protein,143,147,4
+B9J08_004577,8,GO:0045229,0.8559,external encapsulating structure organization,False,False,True,B9J08_004577,B9J08_004577-t37_1,hypothetical protein,143,147,4
+B9J08_004577,9,GO:0005618,0.8531,cell wall,False,False,True,B9J08_004577,B9J08_004577-t37_1,hypothetical protein,143,147,4
+B9J08_004577,11,GO:0030312,0.83,external encapsulating structure,False,False,True,B9J08_004577,B9J08_004577-t37_1,hypothetical protein,143,147,4
+B9J08_004597,3,GO:0016021,0.8113,integral component of membrane,False,False,True,B9J08_004597,B9J08_004597-t37_1,hypothetical protein,325,5,0
+B9J08_004597,4,GO:0031224,0.8098,intrinsic component of membrane,False,False,True,B9J08_004597,B9J08_004597-t37_1,hypothetical protein,325,5,0
+B9J08_004614,2,GO:0031224,0.9843,intrinsic component of membrane,False,False,True,B9J08_004614,B9J08_004614-t37_1,hypothetical protein,326,5,0
+B9J08_004614,4,GO:0016021,0.979,integral component of membrane,False,False,True,B9J08_004614,B9J08_004614-t37_1,hypothetical protein,326,5,0
+B9J08_004614,6,GO:0016020,0.8458,membrane,False,False,True,B9J08_004614,B9J08_004614-t37_1,hypothetical protein,326,5,0
+B9J08_004615,1,GO:0031224,0.8094,intrinsic component of membrane,False,False,True,B9J08_004615,B9J08_004615-t37_1,hypothetical protein,184,5,0
+B9J08_004632,3,GO:0071704,0.8095,organic substance metabolic process,False,False,True,B9J08_004632,B9J08_004632-t37_1,hypothetical protein,432,17,0
+B9J08_004632,4,GO:0044238,0.809,primary metabolic process,False,False,True,B9J08_004632,B9J08_004632-t37_1,hypothetical protein,432,17,0
+B9J08_004637,4,GO:0044424,0.8669,intracellular part,False,False,True,B9J08_004637,B9J08_004637-t37_1,hypothetical protein,474,5,0
+B9J08_004637,5,GO:0016020,0.8303,membrane,False,False,True,B9J08_004637,B9J08_004637-t37_1,hypothetical protein,474,5,0
+B9J08_004637,6,GO:0044422,0.8282,organelle part,False,False,True,B9J08_004637,B9J08_004637-t37_1,hypothetical protein,474,5,0
+B9J08_004755,5,GO:0044424,0.8684,intracellular part,False,False,True,B9J08_004755,B9J08_004755-t37_1,hypothetical protein,422,5,0
+B9J08_004765,3,GO:0044424,0.9463,intracellular part,False,False,True,B9J08_004765,B9J08_004765-t37_1,hypothetical protein,433,10,1
+B9J08_004765,4,GO:0043229,0.9188,intracellular organelle,False,False,True,B9J08_004765,B9J08_004765-t37_1,hypothetical protein,433,10,1
+B9J08_004779,3,GO:0044424,0.9623,intracellular part,False,False,True,B9J08_004779,B9J08_004779-t37_1,hypothetical protein,660,5,0
+B9J08_004779,8,GO:0043229,0.857,intracellular organelle,False,False,True,B9J08_004779,B9J08_004779-t37_1,hypothetical protein,660,5,0
+B9J08_004779,9,GO:0043231,0.8282,intracellular membrane-bounded organelle,False,False,True,B9J08_004779,B9J08_004779-t37_1,hypothetical protein,660,5,0
+B9J08_004780,2,GO:0044424,0.8972,intracellular part,False,False,True,B9J08_004780,B9J08_004780-t37_1,hypothetical protein,399,23,0
+B9J08_004790,3,GO:0043170,0.8312,macromolecule metabolic process,False,False,True,B9J08_004790,B9J08_004790-t37_1,hypothetical protein,396,8,0
+B9J08_004790,4,GO:0044248,0.8291,cellular catabolic process,False,False,True,B9J08_004790,B9J08_004790-t37_1,hypothetical protein,396,8,0
+B9J08_004790,5,GO:0071704,0.8227,organic substance metabolic process,False,False,True,B9J08_004790,B9J08_004790-t37_1,hypothetical protein,396,8,0
+B9J08_004790,6,GO:0044260,0.8137,cellular macromolecule metabolic process,False,False,True,B9J08_004790,B9J08_004790-t37_1,hypothetical protein,396,8,0
+B9J08_004790,7,GO:0008152,0.8087,metabolic process,False,False,True,B9J08_004790,B9J08_004790-t37_1,hypothetical protein,396,8,0
+B9J08_004790,9,GO:0044237,0.8067,cellular metabolic process,False,False,True,B9J08_004790,B9J08_004790-t37_1,hypothetical protein,396,8,0
+B9J08_004831,1,GO:0097159,0.9305,organic cyclic compound binding,False,False,True,B9J08_004831,B9J08_004831-t37_1,hypothetical protein,323,28,0
+B9J08_004831,2,GO:1901363,0.9185,heterocyclic compound binding,False,False,True,B9J08_004831,B9J08_004831-t37_1,hypothetical protein,323,28,0
+B9J08_004831,3,GO:0003676,0.8967,nucleic acid binding,False,False,True,B9J08_004831,B9J08_004831-t37_1,hypothetical protein,323,28,0
+B9J08_004831,6,GO:0003677,0.8065,DNA binding,False,False,True,B9J08_004831,B9J08_004831-t37_1,hypothetical protein,323,28,0
+B9J08_004863,4,GO:0031225,0.8293,anchored component of membrane,False,False,True,B9J08_004863,B9J08_004863-t37_1,hypothetical protein,94,3,0
+B9J08_004903,1,GO:0050789,0.8968,regulation of biological process,False,False,True,B9J08_004903,B9J08_004903-t37_1,hypothetical protein,264,33,1
+B9J08_004903,2,GO:0050794,0.884,regulation of cellular process,False,False,True,B9J08_004903,B9J08_004903-t37_1,hypothetical protein,264,33,1
+B9J08_004903,5,GO:0048518,0.8596,positive regulation of biological process,False,False,True,B9J08_004903,B9J08_004903-t37_1,hypothetical protein,264,33,1
+B9J08_004903,6,GO:0048522,0.8428,positive regulation of cellular process,False,False,True,B9J08_004903,B9J08_004903-t37_1,hypothetical protein,264,33,1
+B9J08_004911,2,GO:0043933,0.9934,protein-containing complex subunit organization,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,4,GO:0071840,0.9784,cellular component organization or biogenesis,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,5,GO:0065003,0.9783,protein-containing complex assembly,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,6,GO:0016043,0.9782,cellular component organization,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,9,GO:0071824,0.9719,protein-DNA complex subunit organization,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,10,GO:0022607,0.9691,cellular component assembly,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,11,GO:0034622,0.9558,cellular protein-containing complex assembly,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,12,GO:0044424,0.9539,intracellular part,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,13,GO:0034728,0.9306,nucleosome organization,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,14,GO:0001115,0.9135,protein-DNA-RNA complex subunit organization,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,15,GO:0006325,0.907,chromatin organization,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,16,GO:0019222,0.9038,regulation of metabolic process,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,17,GO:0060255,0.8991,regulation of macromolecule metabolic process,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,18,GO:0031323,0.8374,regulation of cellular metabolic process,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,19,GO:0010468,0.8343,regulation of gene expression,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004911,20,GO:0032991,0.8262,protein-containing complex,False,False,True,B9J08_004911,B9J08_004911-t37_1,hypothetical protein,378,21,0
+B9J08_004951,2,GO:0044424,0.8105,intracellular part,False,False,True,B9J08_004951,B9J08_004951-t37_1,hypothetical protein,233,7,0
+B9J08_005006,5,GO:0044424,0.856,intracellular part,False,False,True,B9J08_005006,B9J08_005006-t37_1,hypothetical protein,281,8,0
+B9J08_005014,4,GO:0044424,0.831,intracellular part,False,False,True,B9J08_005014,B9J08_005014-t37_1,hypothetical protein,438,22,0
+B9J08_005063,3,GO:0031224,0.8102,intrinsic component of membrane,False,False,True,B9J08_005063,B9J08_005063-t37_1,hypothetical protein,120,8,0
+B9J08_005063,4,GO:0016021,0.8043,integral component of membrane,False,False,True,B9J08_005063,B9J08_005063-t37_1,hypothetical protein,120,8,0
+B9J08_005159,4,GO:0008152,0.9288,metabolic process,False,False,True,B9J08_005159,B9J08_005159-t37_1,hypothetical protein,294,5,0
+B9J08_005159,6,GO:0071704,0.9018,organic substance metabolic process,False,False,True,B9J08_005159,B9J08_005159-t37_1,hypothetical protein,294,5,0
+B9J08_005159,7,GO:0044424,0.8759,intracellular part,False,False,True,B9J08_005159,B9J08_005159-t37_1,hypothetical protein,294,5,0
+B9J08_005159,8,GO:0044237,0.859,cellular metabolic process,False,False,True,B9J08_005159,B9J08_005159-t37_1,hypothetical protein,294,5,0
+B9J08_005173,4,GO:0044424,0.8158,intracellular part,False,False,True,B9J08_005173,B9J08_005173-t37_1,hypothetical protein,730,5,0
+B9J08_005189,2,GO:0031224,0.9447,intrinsic component of membrane,False,False,True,B9J08_005189,B9J08_005189-t37_1,hypothetical protein,146,8,0
+B9J08_005189,3,GO:0016021,0.931,integral component of membrane,False,False,True,B9J08_005189,B9J08_005189-t37_1,hypothetical protein,146,8,0
+B9J08_005194,3,GO:0071840,0.8106,cellular component organization or biogenesis,False,False,True,B9J08_005194,B9J08_005194-t37_1,hypothetical protein,221,5,0
+B9J08_005194,4,GO:0016043,0.8096,cellular component organization,False,False,True,B9J08_005194,B9J08_005194-t37_1,hypothetical protein,221,5,0
+B9J08_005215,1,GO:0044424,0.8662,intracellular part,False,False,True,B9J08_005215,B9J08_005215-t37_1,hypothetical protein,433,21,0
+B9J08_005215,2,GO:0043231,0.8606,intracellular membrane-bounded organelle,False,False,True,B9J08_005215,B9J08_005215-t37_1,hypothetical protein,433,21,0
+B9J08_005215,8,GO:0043229,0.8148,intracellular organelle,False,False,True,B9J08_005215,B9J08_005215-t37_1,hypothetical protein,433,21,0
+B9J08_005243,5,GO:0044424,0.8937,intracellular part,False,False,True,B9J08_005243,B9J08_005243-t37_1,hypothetical protein,219,9,0
+B9J08_005257,1,GO:0044424,0.8337,intracellular part,False,False,True,B9J08_005257,B9J08_005257-t37_1,hypothetical protein,498,8,0
+B9J08_005292,2,GO:0097159,0.9343,organic cyclic compound binding,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005292,4,GO:0003676,0.9172,nucleic acid binding,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005292,5,GO:0044424,0.9143,intracellular part,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005292,6,GO:0005634,0.912,nucleus,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005292,7,GO:1901363,0.9092,heterocyclic compound binding,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005292,9,GO:0043231,0.8819,intracellular membrane-bounded organelle,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005292,13,GO:0043229,0.8712,intracellular organelle,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005292,15,GO:0003677,0.8373,DNA binding,False,False,True,B9J08_005292,B9J08_005292-t37_1,hypothetical protein,460,7,0
+B9J08_005296,2,GO:0044424,0.9298,intracellular part,False,False,True,B9J08_005296,B9J08_005296-t37_1,hypothetical protein,183,23,0
+B9J08_005315,3,GO:0044424,0.9171,intracellular part,False,False,True,B9J08_005315,B9J08_005315-t37_1,hypothetical protein,435,25,0
+B9J08_005315,6,GO:0043229,0.8488,intracellular organelle,False,False,True,B9J08_005315,B9J08_005315-t37_1,hypothetical protein,435,25,0
+B9J08_005315,7,GO:0005634,0.8446,nucleus,False,False,True,B9J08_005315,B9J08_005315-t37_1,hypothetical protein,435,25,0
+B9J08_005315,9,GO:0043231,0.8036,intracellular membrane-bounded organelle,False,False,True,B9J08_005315,B9J08_005315-t37_1,hypothetical protein,435,25,0
+B9J08_005439,3,GO:0044451,0.8921,nucleoplasm part,False,False,True,B9J08_005439,B9J08_005439-t37_1,hypothetical protein,317,27,0
+B9J08_005439,4,GO:0044424,0.8805,intracellular part,False,False,True,B9J08_005439,B9J08_005439-t37_1,hypothetical protein,317,27,0
+B9J08_005470,1,GO:0044237,0.9429,cellular metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,2,GO:0006807,0.9324,nitrogen compound metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,3,GO:0071704,0.9297,organic substance metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,4,GO:0008152,0.9253,metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,5,GO:0043170,0.9156,macromolecule metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,6,GO:0034641,0.9002,cellular nitrogen compound metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,7,GO:0006725,0.8991,cellular aromatic compound metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,9,GO:0006139,0.8853,nucleobase-containing compound metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,10,GO:0046483,0.8826,heterocycle metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,12,GO:1901360,0.8778,organic cyclic compound metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,13,GO:0044238,0.8744,primary metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005470,15,GO:0090304,0.8671,nucleic acid metabolic process,False,False,True,B9J08_005470,B9J08_005470-t37_1,hypothetical protein,434,23,0
+B9J08_005502,3,GO:0044424,0.8802,intracellular part,False,False,True,B9J08_005502,B9J08_005502-t37_1,hypothetical protein,509,183,0
+B9J08_005538,3,GO:0044424,0.826,intracellular part,False,False,True,B9J08_005538,B9J08_005538-t37_1,hypothetical protein,312,5,0
+B9J08_005543,4,GO:0030427,0.8557,site of polarized growth,False,False,True,B9J08_005543,B9J08_005543-t37_1,hypothetical protein,416,26,1
+B9J08_005543,5,GO:0005935,0.8487,cellular bud neck,False,False,True,B9J08_005543,B9J08_005543-t37_1,hypothetical protein,416,26,1
+B9J08_005546,3,GO:0016021,0.9096,integral component of membrane,False,False,True,B9J08_005546,B9J08_005546-t37_1,hypothetical protein,332,5,0
+B9J08_005546,4,GO:0031224,0.8898,intrinsic component of membrane,False,False,True,B9J08_005546,B9J08_005546-t37_1,hypothetical protein,332,5,0
+B9J08_005547,3,GO:0016021,0.9073,integral component of membrane,False,False,True,B9J08_005547,B9J08_005547-t37_1,hypothetical protein,312,5,0
+B9J08_005547,4,GO:0031224,0.8934,intrinsic component of membrane,False,False,True,B9J08_005547,B9J08_005547-t37_1,hypothetical protein,312,5,0
+B9J08_005557,3,GO:0031225,0.8724,anchored component of membrane,False,False,True,B9J08_005557,B9J08_005557-t37_1,hypothetical protein,184,43,5
+B9J08_005576,3,GO:0016021,0.8993,integral component of membrane,False,False,True,B9J08_005576,B9J08_005576-t37_1,hypothetical protein,541,8,0
+B9J08_005576,4,GO:0031224,0.8864,intrinsic component of membrane,False,False,True,B9J08_005576,B9J08_005576-t37_1,hypothetical protein,541,8,0

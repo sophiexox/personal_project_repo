@@ -1,0 +1,19 @@
+Output_Type,Text_Metric,ProtNote_Metric,Method,N_used,Missing,Spearman_rho,P_value
+function,GO2SUM_Function_Word_Count,ProtNote_Specific_Count,Spearman rank correlation,521,0,0.07883624774799683,0.07218527180659015
+function,GO2SUM_Function_Exact_Duplicate_Count,ProtNote_Specific_Count,Spearman rank correlation,521,0,-0.06913933174086792,0.11497264075647329
+function,GO2SUM_Function_Word_Count,ProtNote_HighConf_Specific_Count,Spearman rank correlation,521,0,-0.012911118518631136,0.7687531847354148
+function,GO2SUM_Function_Exact_Duplicate_Count,ProtNote_HighConf_Specific_Count,Spearman rank correlation,521,0,0.0242873146810974,0.5801823850569946
+function,GO2SUM_Function_Word_Count,ProtNote_Top_Probability,Spearman rank correlation,521,0,-0.09102374622738586,0.03780353494001693
+function,GO2SUM_Function_Exact_Duplicate_Count,ProtNote_Top_Probability,Spearman rank correlation,521,0,0.10934602324877549,0.012511939870235012
+pathway,GO2SUM_Pathway_Word_Count,ProtNote_Specific_Count,Spearman rank correlation,521,0,-0.032357231078321745,0.4611305151234223
+pathway,GO2SUM_Pathway_Exact_Duplicate_Count,ProtNote_Specific_Count,Spearman rank correlation,521,0,-0.11152217808756802,0.010853588647948881
+pathway,GO2SUM_Pathway_Word_Count,ProtNote_HighConf_Specific_Count,Spearman rank correlation,521,0,-0.06741235015652072,0.12435007891158577
+pathway,GO2SUM_Pathway_Exact_Duplicate_Count,ProtNote_HighConf_Specific_Count,Spearman rank correlation,521,0,-0.06827906688406597,0.119572062862421
+pathway,GO2SUM_Pathway_Word_Count,ProtNote_Top_Probability,Spearman rank correlation,521,0,0.0025697395078391277,0.9533387269325326
+pathway,GO2SUM_Pathway_Exact_Duplicate_Count,ProtNote_Top_Probability,Spearman rank correlation,521,0,0.03208139550079616,0.46496196647915644
+subunit,GO2SUM_Subunit_Word_Count,ProtNote_Specific_Count,Spearman rank correlation,521,0,0.035089386119636835,0.42414399270833636
+subunit,GO2SUM_Subunit_Exact_Duplicate_Count,ProtNote_Specific_Count,Spearman rank correlation,521,0,-0.1279791940478932,0.0034312519313333912
+subunit,GO2SUM_Subunit_Word_Count,ProtNote_HighConf_Specific_Count,Spearman rank correlation,521,0,-0.07733480657995334,0.07779902840838472
+subunit,GO2SUM_Subunit_Exact_Duplicate_Count,ProtNote_HighConf_Specific_Count,Spearman rank correlation,521,0,0.05335165386566177,0.22409345086632707
+subunit,GO2SUM_Subunit_Word_Count,ProtNote_Top_Probability,Spearman rank correlation,521,0,0.07983105628092507,0.06865128609898707
+subunit,GO2SUM_Subunit_Exact_Duplicate_Count,ProtNote_Top_Probability,Spearman rank correlation,521,0,-0.05591191670069912,0.20261211439349172
